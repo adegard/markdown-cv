@@ -24,19 +24,19 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 ### Summary
 
-*I am a french Chemical Engineer and Sales Manager with a focus mainly on industrial plants. I have a proven track record of success in driving sales growth and improving processes in the industry.*
+*I am a french Chemical Engineer and Sales Manager with a focus mainly on industrial plants.*
 
-*I am a creative problem-solver with excellent communication skills, and a passion for implementing new and innovative technologies to help solve challenges.*
+*I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges.*
   
-*My background in team management, combined with my technical proficiency, has enabled me to provide efficient and effective solutions to clients.* 
+*My background in team management and statistics, combined with my technical proficiency, has enabled me to provide efficient and effective solutions to clients.* 
 
 *Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders.* 
 
-*I have a love for programming, which I use to improve work processes (Google apps scripts, javascript, HTML...).* 
+*I have a love for programming, which I use to improve my work processes (Google apps scripts, javascript, HTML...).* 
 
-*I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with clients.*
+*I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
 
-*I live in Italy near to Milan, with my wife and my daughter.*
+*I like Italy, where I live, with my wife and my daughter.*
 
 ### Top skills
 
