@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Arnaud Degardin's CV
+title: Arnaud Degardin
 ---
 
 <img src="https://media.licdn.com/dms/image/C4E03AQFtOn-W8rJWJA/profile-displayphoto-shrink_200_200/0/1652964404901?e=1695254400&v=beta&t=Cf5zTGK2wNxJRFPmZW5WBdXK2oB_CnKp4mqPgcqxkHI"  align="center" width="200px">
@@ -134,8 +134,8 @@ I wish him all the best for the future and I know he will work well in many envi
 
 I hereby consent to the processing of the personal data in this CV by anyone who receives this CV for the sole purpose of consideration of my skills and experience for professional opportunities.
 
-<!-- ### Footer
 
-Last updated: July 2023 -->
+# Last updated: July 2023
+<!-- ### Footer @adegard-->
 
 
