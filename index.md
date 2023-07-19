@@ -52,9 +52,12 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 `2000-2003`
 __Ecole supérieure de Chimie Physique Electronique de Lyon, Master's degree, Chemistry and Process.__
 
+- <a href="https://www.cpe.fr/">cpe.fr</a>
+
 `1997 - 1999`
 __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 
+- <a href="https://www.univ-tours.fr/">univ-tours.fr</a>
 
 ## Occupation
 
