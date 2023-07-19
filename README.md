@@ -1,65 +1,93 @@
-# markdown-cv
+Johnny Coder
+============
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+Education
+---------
 
-***
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-## Customization
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+    *Minor: Awesomeology*
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+Experience
+----------
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+**Your Most Recent Work Experience:**
 
-adding your skills, jobs and education.
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+* First item
 
-## Distribution
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+**That Other Job You Had**
 
-### I. Use Github Pages to publish it online
+Also with a short description.
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+Technical Experience
+--------------------
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
 
-### II. Build it locally and print a PDF
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
 
-## Styling
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-### Author
+[ref]: https://github.com/githubuser/superlongprojectname
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+Extra Section, Call it Whatever You Want
+----------------------------------------
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+* Human Languages:
 
-### License
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
