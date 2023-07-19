@@ -37,7 +37,7 @@ I frequently travel throughout Europe, North Africa, and the Middle East to repr
 
 ### Top skills
 
-- Sales management/ Leads generation
+- Sales management, Leads generation
 - Chemical Engineering
 - Programming (javascript, Apps Script...)
 
@@ -116,7 +116,7 @@ Process Engineer - internship
 ## Certifications
 
 `2010`
-Lean six sigma Black Belt, Sig Sigma Accademy
+Lean six sigma Black Belt, Sig Sigma Accademy <a href="https://www.sixsigmacouncil.org/">sixsigmacouncil.org</a>
   
 <!-- ### Footer
 
