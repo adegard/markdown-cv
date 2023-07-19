@@ -8,6 +8,7 @@ Cheminal Engineer, Javascript/Apps Script developer.
 <div id="webaddress">
 <a href="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
 | <a href="https://adegard.github.io/markdown-cv/">My webpage</a>
+  <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
 </div>
 
 
@@ -15,15 +16,22 @@ Cheminal Engineer, Javascript/Apps Script developer.
 
 Technical Sales & Application Manager
 
-### Specialized in
+### Summary
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I am a sales professional with a focus mainly on chemical plants. I have a proven track record of success in driving sales growth and improving processes in the industry. 
+I am a creative problem-solver with excellent communication skills, and a passion for implementing new and innovative technologies to help solve challenges. 
+My background in team management, combined with my technical proficiency, has enabled me to provide efficient and effective solutions to clients. 
+Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders. 
+Additionally, I have a love for programming, which I use to improve work processes (Google apps, javascript). 
+I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with clients.
 
+### Top skills
 
-### Research interests
+Sales management, Chemical Engineering, Programming (javascript, Apps Script), Lead generation.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Languages
 
+French (native), Italian (fluent), English (fluent), German (basic)
 
 ## Education
 
