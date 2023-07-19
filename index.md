@@ -81,14 +81,14 @@ __BOLTON MANITOBA SPA__, Novate Milanese, Lombardia, Italia, <a href="https://ww
 
 Plant Development Specialist - Projects/Maintenance
 
-- I worked as a Plant Development Specialist - Projects/Maintenance at Bolton Manitoba in Novate Milanese for 1 year and 6 months from 2010 to 2011. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and Components/piping specification cahier des charges. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. My background in the chemical industry (detergents) was strengthened through the use of software such as Autocad, Visio, chemical properties software, and Office Excel.
+- I worked as a Plant Development Specialist - Projects/Maintenance at Bolton Manitoba in Novate Milanese. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and Components/piping specification cahier des charges. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. My background in the chemical industry (detergents) was strengthened through the use of software such as Autocad, Visio, chemical properties software, and Office Excel.
 
 `09/2002-2010`
 __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://www.solvay.com/en/">solvay.com</a>
 
 Chemical process engineer & Lean Six Sigma Black Belt
 
-- I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rhodia) for 7 years and 6 months from 2005 to 2010 in the Milan Area, Italy. During my time at Solvay (ex-Rhodia), I had the role of a Chemical Plant Design - Six Sigma Black Belt, where I was responsible for World Class Manufacturing (KPI) and leading Lean-Six Sigma projects (Black Belt qualification), leading over 10 international projects on-site and off-site. I also designed new plants and chemical process modifications (P&I, data sheet, specification cahier des charges), managed mixing plant maintenance interventions, designed logical control sequences, and conducted HAZOP.
+- I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rhodia) in the Milan Area, Italy. During my time at Solvay (ex-Rhodia), I had the role of a Chemical Plant Design - Six Sigma Black Belt, where I was responsible for World Class Manufacturing (KPI) and leading Lean-Six Sigma projects (Black Belt qualification), leading over 10 international projects on-site and off-site. I also designed new plants and chemical process modifications (P&I, data sheet, specification cahier des charges), managed mixing plant maintenance interventions, designed logical control sequences, and conducted HAZOP.
 - I was proficient in Minitab, a statistical software, and was responsible for the development of new plants for the headquarters of Bollate (MI) in the production of surfactants for the industry and agriculture.
 
 `03/2002-08/2002`
