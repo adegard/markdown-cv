@@ -117,7 +117,11 @@ Process Engineer - internship
 
 `2010`
 Lean six sigma Black Belt, Sig Sigma Accademy, <a href="https://www.sixsigmacouncil.org/">sixsigmacouncil.org</a>
-  
+
+## GDPR consent
+
+I hereby consent to the processing of the personal data in this CV by anyone who receives this CV for the sole purpose of consideration of my skills and experience for professional opportunities.
+
 <!-- ### Footer
 
 Last updated: July 2023 -->
