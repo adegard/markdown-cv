@@ -9,7 +9,7 @@ title: Arnaud Degardin's CV
 Chemical Engineer, Sales Manager.
 
 <div id="webaddress">
-<a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
+<a emailto="degardinarnaud @ gmail.com">degardinarnaud@gmail.com</a>
 | <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
 | <a href="https://github.com/adegard/">Github</a>  
