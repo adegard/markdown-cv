@@ -123,7 +123,7 @@ Lean six sigma Black Belt, Sig Sigma Accademy, <a href="https://www.sixsigmacoun
 ## Recommandation
 
 `2011`
-Steven Farr, Logistics Advisor at ENOCLogistics Advisor, <a href="https://www.linkedin.com/in/arnauddegardin/">On Linkedin</a>
+📣 Steven Farr, <a href="https://www.linkedin.com/in/arnauddegardin/">on Linkedin</a> said:
 
 "Arnaud is a thorough person who focuses and works through a programme or project to deliver results. He is a multi-linguist and had good empathy with those he worked with. He was an excellent Black Belt and was a pleasure to coach. 
 I wish him all the best for the future and I know he will work well in many environments."
