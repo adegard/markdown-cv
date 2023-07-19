@@ -31,11 +31,17 @@ I frequently travel throughout Europe, North Africa, and the Middle East to repr
 
 ### Top skills
 
-Sales management, Chemical Engineering, Programming (javascript, Apps Script), Leads generation.
+- Sales management
+- Chemical Engineering
+- Programming (javascript, Apps Script...)
+- Leads generation.
 
 ### Languages
 
-French (native), Italian (fluent), English (fluent), German (basic)
+- French (native)
+- Italian (fluent)
+- English (fluent)
+- German (basis)
 
 ## Education
 
