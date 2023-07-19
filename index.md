@@ -9,11 +9,10 @@ title: Arnaud Degardin's CV
 Chemical Engineer, Sales Manager.
 
 ✉️ <a emailto="degardinarnaud @ gmail.com">degardinarnaud @ gmail.com</a>
-<div id="webaddress">
+
  <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
 | <a href="https://github.com/adegard/">Github</a>  
-</div>
 
 🏠 Cesate (MI), Lombardy, Italy
 
