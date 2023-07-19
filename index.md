@@ -31,7 +31,7 @@ My background in team management, combined with my technical proficiency, has en
 
 Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders. 
 
-Additionally, I have a love for programming, which I use to improve work processes (Google apps, javascript). 
+Additionally, I have a love for programming, which I use to improve work processes (Google apps scripts, javascript, HTML...). 
 
 I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with clients.
 
