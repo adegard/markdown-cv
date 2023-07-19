@@ -18,7 +18,7 @@ Cheminal Engineer, Sales Manager.
 
 ## Currently
 
-Technical Sales & Application Manager at <a href="https://www.linkedin.com/in/arnauddegardin/">DEC Impianti</a>
+Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
 
 ### Summary
 
