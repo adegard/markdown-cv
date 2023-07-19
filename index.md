@@ -46,12 +46,6 @@ __Ecole supérieure de Chimie Physique Electronique de Lyon, Master's degree, Ch
 __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 
 
-## Certifications
-
-`2010`
-Lean six sigma Black Belt, Sig Sigma Accademy
-
-
 ## Occupation
 
 `2019-Present`
@@ -79,7 +73,7 @@ Plant Development Specialist - Projects/Maintenance
 
 I worked as a Plant Development Specialist - Projects/Maintenance at Bolton Manitoba in Novate Milanese for 1 year and 6 months from 2010 to 2011. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and Components/piping specification cahier des charges. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. My background in the chemical industry (detergents) was strengthened through the use of software such as Autocad, Visio, chemical properties software, and Office Excel.
 
-`Sept 2002-2010`
+`09/2002-2010`
 __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia
 
 Chemical process engineer & Lean Six Sigma Black Belt
@@ -88,26 +82,32 @@ I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rho
 
 I was proficient in Minitab, a statistical software, and was responsible for the development of new plants for the headquarters of Bollate (MI) in the production of surfactants for the industry and agriculture.
 
-`Mar 2002-Aug 2002`
+`03/2002-08/2002`
 __ARKEMA (ex-Atofina)__, La Chambre, France
 
 Process Engineer Internship
 
 - Chemical Process Optimization
 
-`Sept 2001-Feb 2002`
+`09/2001-02/2002`
 __Lafarge Cement__, Marseille, France
 
 Analytical R&D - Internship
 
 -Cosntructio of a Thermogravimetric analyser, with HMI control (Visual Basic)
 
-`Sept 2001-Feb 2002`
+`09/2001-02/2002`
 __IFP (Instuitut Francais du Pétrol)__, Lyon, France
 
 Process Engineer - internship
 
 - Distillation process simulator
+
+
+## Certifications
+
+`2010`
+Lean six sigma Black Belt, Sig Sigma Accademy
   
 <!-- ### Footer
 
