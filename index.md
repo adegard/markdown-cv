@@ -42,7 +42,7 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 - Sales management, Leads generation
 - Chemical Engineering
-- Programming (javascript, Apps Script...)
+- Programming (mainly: javascript, Apps Script, HTML)
 
 ### Languages
 
