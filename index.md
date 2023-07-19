@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Arnaud Degardin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Arnaud DEGARDIN
+Cheminal Engineer, Javascript/Apps Script developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
+| <a href="https://adegard.github.io/markdown-cv/">My webpage</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Technical Sales & Application Manager
 
 ### Specialized in
 
