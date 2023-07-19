@@ -100,14 +100,14 @@ __Lafarge Cement__, Marseille, France
 
 Analytical R&D - Internship
 
--Cosntructio of a Thermogravimetric analyser, with HMI control (Visual Basic)
+- Thermogravimetric analyser building, with HMI control (Visual Basic programming)
 
 `09/2001-02/2002`
 __IFP (Instuitut Francais du Pétrol)__, Lyon, France
 
 Process Engineer - internship
 
-- Distillation process simulator
+- Distillation process simulator (Excel testing models for complex distillations)
 
 
 ## Certifications
