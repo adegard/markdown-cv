@@ -135,7 +135,10 @@ I wish him all the best for the future and I know he will work well in many envi
 I hereby consent to the processing of the personal data in this CV by anyone who receives this CV for the sole purpose of consideration of my skills and experience for professional opportunities.
 
 
-# Last updated: July 2023
+## Last updated 
+
+July 2023
+
 <!-- ### Footer @adegard-->
 
 
