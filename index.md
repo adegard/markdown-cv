@@ -48,7 +48,7 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 - 🇲🇫 French : native
 - 🇮🇹 Italian : fluent
 - 🇬🇧 English : fluent
-- 🇧🇪 German : basis
+- 🇩🇪 German : basis
 
 ## Education
 
