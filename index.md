@@ -2,7 +2,7 @@
 layout: cv
 title: Arnaud Degardin's CV
 ---
-</br>
+
 <img src="https://media.licdn.com/dms/image/C4E03AQFtOn-W8rJWJA/profile-displayphoto-shrink_200_200/0/1652964404901?e=1695254400&v=beta&t=Cf5zTGK2wNxJRFPmZW5WBdXK2oB_CnKp4mqPgcqxkHI"  align="center">
 
 # Arnaud DEGARDIN
