@@ -101,7 +101,7 @@ Process Engineer Internship
 - Chemical Process Optimization
 
 `09/2001-02/2002`
-__Lafarge Cement__, Marseille, France, <a href="https://www.holcim.us/">holcim.us</a>
+__LAFARGE Cement__, Marseille, France, <a href="https://www.holcim.us/">holcim.us</a>
 
 Analytical R&D - Internship
 
