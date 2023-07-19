@@ -43,10 +43,10 @@ I frequently travel throughout Europe, North Africa, and the Middle East to repr
 
 ### Languages
 
-- French (native)
-- Italian (fluent)
-- English (fluent)
-- German (basis)
+- French | native
+- Italian | fluent
+- English | fluent
+- German | basis
 
 ## Education
 
@@ -63,28 +63,28 @@ __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 ## Occupation
 
 `2019-Present`
-__DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia
+__DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia <a href="https://www.decimpianti.com/">decimpianti.com</a>
 
 Technical Sales & Application Manager
 
 - I am currently working as the Technical Sales & Application Manager at DEC IMPIANTI S.p.A. In this role, I have been with the company from 2019 on a full-time basis. As a Technical Sales & Application Manager, I am responsible for representing the company and its products in the market. To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East to promote DEC Impianti's VOC recovery solutions and their unrivaled technical expertise in solvent recovery systems.
 
 `2012-2018`
-__ASE Soc Coop.__, Saronno, Lombardia, Italia
+__ASE Soc Coop.__, Saronno, Lombardia, Italia 
 
 CEO & Sales Office Manager
 
 - I served as Sales Office Manager at ASE Soc Coop. I was managing my own company for healthcare human resources consultancy. I was responsible for managing a healthcare human resources business with two offices, two direct employees, and over 100 co-workers. My duties included People Management, RSPP (Responsabile del Servizio di Prevenzione e Protezione), Marketing, Sales and Business Strategy. During my time there, I was successful in leading and guiding the team towards meeting the company's goals.
 
 `2010-2011`
-__BOLTON MANITOBA SPA__, Novate Milanese, Lombardia, Italia
+__BOLTON MANITOBA SPA__, Novate Milanese, Lombardia, Italia <a href="https://www.boltongroup.net/">boltongroup.net</a>
 
 Plant Development Specialist - Projects/Maintenance
 
 - I worked as a Plant Development Specialist - Projects/Maintenance at Bolton Manitoba in Novate Milanese for 1 year and 6 months from 2010 to 2011. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and Components/piping specification cahier des charges. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. My background in the chemical industry (detergents) was strengthened through the use of software such as Autocad, Visio, chemical properties software, and Office Excel.
 
 `09/2002-2010`
-__SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia
+__SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://www.solvay.com/en/">solvay.com/en/</a>
 
 Chemical process engineer & Lean Six Sigma Black Belt
 
@@ -92,21 +92,21 @@ Chemical process engineer & Lean Six Sigma Black Belt
 - I was proficient in Minitab, a statistical software, and was responsible for the development of new plants for the headquarters of Bollate (MI) in the production of surfactants for the industry and agriculture.
 
 `03/2002-08/2002`
-__ARKEMA (ex-Atofina)__, La Chambre, France
+__ARKEMA (ex-Atofina)__, La Chambre, France <a href="https://www.arkema.com/global/en/">arkema.com/en/</a>
 
 Process Engineer Internship
 
 - Chemical Process Optimization
 
 `09/2001-02/2002`
-__Lafarge Cement__, Marseille, France
+__Lafarge Cement__, Marseille, France <a href="https://www.holcim.us/">holcim.us</a>
 
 Analytical R&D - Internship
 
 - Thermogravimetric analyser building, with HMI control (Visual Basic programming)
 
 `09/2001-02/2002`
-__IFP (Instuitut Francais du Pétrol)__, Lyon, France
+__IFP (Institut Francais du Pétrol)__, Lyon, France <a href="https://www.ifpenergiesnouvelles.fr/">ifpenergiesnouvelles.fr</a>
 
 Process Engineer - internship
 
