@@ -7,8 +7,9 @@ Cheminal Engineer, Javascript/Apps Script developer.
 
 <div id="webaddress">
 <a href="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
-| <a href="https://adegard.github.io/markdown-cv/">My webpage</a>
+| <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
+| <a href="https://github.com/adegard/">Github</a>  
 </div>
 
 
@@ -75,7 +76,7 @@ Plant Development Specialist - Projects/Maintenance
 
 I worked as a Plant Development Specialist - Projects/Maintenance at Bolton Manitoba in Novate Milanese for 1 year and 6 months from 2010 to 2011. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and Components/piping specification cahier des charges. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. My background in the chemical industry (detergents) was strengthened through the use of software such as Autocad, Visio, chemical properties software, and Office Excel.
 
-`September 2002-2010`
+`Sept 2002-2010`
 __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia
 
 Chemical process engineer & Lean Six Sigma Black Belt
@@ -84,21 +85,21 @@ I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rho
 
 I was proficient in Minitab, a statistical software, and was responsible for the development of new plants for the headquarters of Bollate (MI) in the production of surfactants for the industry and agriculture.
 
-`March 2002-August 2002`
+`Mar 2002-Aug 2002`
 __ARKEMA (ex-Atofina)__, La Chambre, France
 
 Process Engineer Internship
 
 - Chemical Process Optimization
 
-`September 2001-February 2002`
+`Sept 2001-Feb 2002`
 __Lafarge Cement__, Marseille, France
 
 Analytical R&D - Internship
 
 -Cosntructio of a Thermogravimetric analyser, with HMI control (Visual Basic)
 
-`September 2001-February 2002`
+`Sept 2001-Feb 2002`
 __IFP (Instuitut Francais du Pétrol)__, Lyon, France
 
 Process Engineer - internship
