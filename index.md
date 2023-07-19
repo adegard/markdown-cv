@@ -23,7 +23,7 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 ### Summary
 
-I am a sales professional with a focus mainly on chemical plants. I have a proven track record of success in driving sales growth and improving processes in the industry.
+I am a Chemical Engineer and Sales Manager with a focus mainly on industrial plants. I have a proven track record of success in driving sales growth and improving processes in the industry.
 
 I am a creative problem-solver with excellent communication skills, and a passion for implementing new and innovative technologies to help solve challenges.
   
