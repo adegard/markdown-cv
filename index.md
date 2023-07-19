@@ -70,7 +70,7 @@ __ASE Soc Coop.__, Saronno, Lombardia, Italia
 
 CEO & Sales Office Manager
 
-I served as Sales Office Manager at ASE Soc Coop. I was managing the company (family own) for healthcare human resources consultance. I was responsible for managing a healthcare human resources business with two offices, two direct employees, and over 100 co-workers. My duties included People Management, RSPP (Responsabile del Servizio di Prevenzione e Protezione), Marketing, and Business Strategy. During my time there, I was successful in leading and guiding the team towards meeting the company's goals.
+I served as Sales Office Manager at ASE Soc Coop. I was managing my own company for healthcare human resources consultancy. I was responsible for managing a healthcare human resources business with two offices, two direct employees, and over 100 co-workers. My duties included People Management, RSPP (Responsabile del Servizio di Prevenzione e Protezione), Marketing, Sales and Business Strategy. During my time there, I was successful in leading and guiding the team towards meeting the company's goals.
 
 `2010-2011`
 __BOLTON MANITOBA SPA__, Novate Milanese, Lombardia, Italia
