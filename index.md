@@ -43,10 +43,10 @@ I frequently travel throughout Europe, North Africa, and the Middle East to repr
 
 ### Languages
 
-- French | native
-- Italian | fluent
-- English | fluent
-- German | basis
+- French : native
+- Italian : fluent
+- English : fluent
+- German : basis
 
 ## Education
 
