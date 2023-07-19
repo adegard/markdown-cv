@@ -20,7 +20,7 @@ Chemical Engineer, Sales Manager.
 
 Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
 
-## Summary
+### Summary
 
 - I am a sales professional with a focus mainly on chemical plants. I have a proven track record of success in driving sales growth and improving processes in the industry.
   
