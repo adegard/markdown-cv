@@ -90,8 +90,8 @@ __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://w
 
 Chemical process engineer & Lean Six Sigma Black Belt
 
-- I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rhodia) in the Milan Area, Italy. During my time at Solvay (ex-Rhodia), I had the role of a Chemical Plant Design - Six Sigma Black Belt, where I was responsible for World Class Manufacturing (KPI) and leading Lean-Six Sigma projects (Black Belt qualification), leading over 10 international projects on-site and off-site. I also designed new plants and chemical process modifications (P&I, data sheet, specification cahier des charges), managed mixing plant maintenance interventions, designed logical control sequences, and conducted HAZOP.
-- I was proficient in Minitab, a statistical software, and was responsible for the development of new plants for the headquarters of Bollate (MI) in the production of surfactants for the industry and agriculture.
+- I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rhodia) at Ospiate di Bollate production site, Italy. During my time at Solvay (ex-Rhodia), I had the role of a Chemical Plant Design - Six Sigma Black Belt, where I was responsible for World Class Manufacturing (KPI) and leading Lean-Six Sigma projects (Black Belt qualification), leading over 10 international projects. I also designed new plants and chemical process modifications (P&I, data sheet, specification cahier des charges), managed mixing plant maintenance interventions, designed logical control sequences, and conducted HAZOP.
+This site is specialized in the production of surfactants for the industry and agriculture.
 
 `03/2002-08/2002`
 __ARKEMA (ex-Atofina)__, La Chambre, France, <a href="https://www.arkema.com/global/en/">arkema.com</a>
