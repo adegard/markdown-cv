@@ -8,8 +8,8 @@ title: Arnaud Degardin
 # Arnaud DEGARDIN
 Chemical Engineer, Sales Manager
 
-✉️ <a emailto="degardinarnaud @ gmail.com">degardinarnaud @ gmail.com</a>
-
+✉️ <a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
+Phone number available on request
  <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
 | <a href="https://github.com/adegard/">Github</a>  
