@@ -108,7 +108,7 @@ Analytical R&D - Internship
 - Thermogravimetric analyser building, with HMI control (Visual Basic programming)
 
 `09/2001-02/2002`
-__IFP (Institut Francais du Pétrol)__, Lyon, France, <a href="https://www.ifpenergiesnouvelles.fr/">ifpenergiesnouvelles.fr</a>
+__IFP (Institut Français du Pétrol)__, Lyon, France, <a href="https://www.ifpenergiesnouvelles.fr/">ifpenergiesnouvelles.fr</a>
 
 Process Engineer - internship
 
