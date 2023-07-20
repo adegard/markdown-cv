@@ -35,7 +35,7 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 *I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
 
-*I like Italy, where I live, with my wife and my daughter.*
+*I love Italy, where I live, with my wife and my daughter.*
 
 ### Top skills
 
