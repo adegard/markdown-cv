@@ -118,7 +118,7 @@ Process Engineer - internship
 ## Certifications
 
 `2010`
-🏅Six Sigma Black Belt, from Sig Sigma Accademy, <a href="https://www.sixsigmacouncil.org/">sixsigmacouncil.org</a>
+🏅Six Sigma Black Belt, from Six Sigma Accademy, <a href="https://www.sixsigmacouncil.org/">sixsigmacouncil.org</a>
 
 
 ## Recommandation
