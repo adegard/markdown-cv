@@ -25,7 +25,7 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 *I am a french Chemical Engineer and Sales Manager with a focus mainly on industrial plants.*
 
-*I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges.*
+*I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges and improving company processes (Lean).*
   
 *My background in team management and organization, combined with my technical proficiency, has enabled me to provide efficient and effective results oriented to customer satisfaction.* 
 
