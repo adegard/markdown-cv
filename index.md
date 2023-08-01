@@ -69,7 +69,7 @@ __DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.decimp
 
 Technical Sales & Application Manager
 
-- I am currently working as the Technical Sales & Application Manager at DEC IMPIANTI S.p.A. In this role, I have been with the company from 2019 on a full-time basis. As a Technical Sales & Application Manager, I am responsible for representing the company and its products in the market. To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East to promote DEC Impianti's VOC recovery solutions and their unrivaled technical expertise in solvent recovery systems.
+- I am currently working as the Technical Sales & Application Manager at DEC IMPIANTI S.p.A. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation. To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East to promote DEC Impianti's VOC recovery solutions towarded to Circular Economy and CO2 footprint reduction.
 
 `2012-2018`
 __ASE Soc Coop.__, Saronno, Lombardia, Italia 
