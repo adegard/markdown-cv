@@ -53,7 +53,7 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 ## Education
 
 `2000-2003`
-__Ecole supérieure de Chimie Physique Electronique de Lyon, Master's degree, Chemistry and Process.__
+__Ecole supérieure de Chimie Physique Electronique de Lyon, Master's degree, Chemical Engineering.__
 
 - <a href="https://www.cpe.fr/">cpe.fr</a>
 
