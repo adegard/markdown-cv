@@ -128,7 +128,7 @@ Process Engineer - internship
 🏅 Patente Gas Tossici - Toxic Gas License (Ossido di Etilene - Ethylene Oxyde), <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esami-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServizi.it</a> 
 
 `1997`
-🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/bafa-bafd">BAFA</a>
+🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/le-brevet-d-aptitude-aux-fonctions-d-animateur-bafa-253">BAFA</a>
 
 
 ## Recommandation
