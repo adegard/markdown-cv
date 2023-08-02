@@ -125,7 +125,7 @@ Process Engineer - internship
 🏅 Vigili ausiliari - Fire Guard License, <a href="https://www.silpa.org/">SILPA.org</a>
 
 `2009`
-🏅 Patente Gas Tossici - Toxic Gas License (Ossido di Etilene - Ethylene Oxyde), <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esaPatente Gas Tossici - Toxic Gas License (Ossido di Etilene - Ethylene Oxyde), <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esami-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServuzi.it</a> mi-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServizi.it</a> 
+🏅 Patente Gas Tossici - Toxic Gas License (Ossido di Etilene - Ethylene Oxyde), <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esami-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServizi.it</a> 
 
 `1997`
 🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/bafa-bafd">BAFA</a>
