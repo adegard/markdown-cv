@@ -118,9 +118,12 @@ Process Engineer - internship
 
 ## Certifications
 
-`2010`
+`2006`
 🏅Six Sigma Black Belt, from Six Sigma Accademy, <a href="https://www.sixsigmacouncil.org/">sixsigmacouncil.org</a>
-
+`2008`
+Vigili ausiliari - Fire Guard License, <a href="https://www.silpa.org/">SILPA.org</a>
+`2009`
+Patente Gas Tossici - Toxic Gas License (Ossido di Etilene - Ethylene Oxyde), <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esami-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServuzi.it</a> 
 
 ## Recommandation
 
