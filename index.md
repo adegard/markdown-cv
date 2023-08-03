@@ -39,7 +39,8 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 ### Top skills
 
-- Sales management, Leads generation
+- Sales management
+- Marketing
 - Chemical Engineering
 - Lean Six Sigma 
 - Programming (eg. javascript, Apps Script, HTML)
@@ -78,6 +79,8 @@ __ASE Soc Coop.__, Saronno, Lombardia, Italia
 CEO & Sales Office Manager
 
 - I built ASE Soc Coop company, installing 2 offices (Saronno & Como), with 2 direct sales people hired for Customer meetings and the company were managing around 100 co-workers.The scope was the HR research and selection of people for Healthcare services.
+- This activity allowed me to experience in managing multi-channel retail business, meanwhile focusing on digital transformation with Financial management
+and Team Leadership.  
 
 `2010-2011`
 __BOLTON MANITOBA S.p.A.__, Nova Milanese, Lombardia, Italia, <a href="https://www.boltongroup.net/">boltongroup.net</a>
