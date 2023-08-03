@@ -133,13 +133,13 @@ Process Engineer - internship
 `1997`
 🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/le-brevet-d-aptitude-aux-fonctions-d-animateur-bafa-253">BAFA</a>
 
-## Software 
+## Softwares 
 
-Autocad, Visio, chemical properties software, Microsoft's Office, Google Workspace,... etc.
+Autocad, Visio, chemical properties software, Microsoft's Office, Google Workspace, Minitab... etc.
 
 ## Programming languages 
 
-JavaScript, Google Apps Script, HTML, PHP, AHK, Visual Basic, R, Python.
+JavaScript, Google Apps Script, HTML, PHP, AHK, Visual Basic, R, Python, Markdown,...etc.
 
 ## Recommandation
 
