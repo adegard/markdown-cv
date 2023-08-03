@@ -87,7 +87,7 @@ __BOLTON MANITOBA S.p.A.__, Nova Milanese, Lombardia, Italia, <a href="https://w
 
 Plant Development Specialist - Projects/Maintenance
 
-- I worked as a Plant Development Specialist - Projects/Maintenance at Bolton Manitoba in Nova Milanese. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and Components/piping specification cahier des charges. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. My background in the chemical industry (detergents) was strengthened through the use of software such as Autocad, Visio, chemical properties software, and Office Excel.
+- I worked as a Plant Development Specialist - Projects/Maintenance. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and piping/instrumentation specifications. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. 
 
 `09/2002-2010`
 __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://www.solvay.com/en/">solvay.com</a>
@@ -133,6 +133,13 @@ Process Engineer - internship
 `1997`
 🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/le-brevet-d-aptitude-aux-fonctions-d-animateur-bafa-253">BAFA</a>
 
+## Software 
+
+Autocad, Visio, chemical properties software, Microsoft's Office, Google Workspace,... etc.
+
+## Programming languages 
+
+JavaScript, Google Apps Script, HTML, PHP, AHK, Visual Basic, R, Python.
 
 ## Recommandation
 
