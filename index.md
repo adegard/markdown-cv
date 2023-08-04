@@ -27,7 +27,7 @@ Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</
 
 *I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges and improving company processes (Lean).*
   
-*My background in team management and organization, combined with my technical proficiency, has enabled me to provide efficient and effective results oriented to customer satisfaction.* 
+*My background in team management and sames, combined with my technical proficiency, has enabled me to provide efficient and effective results oriented to customer satisfaction.* 
 
 *Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders.* 
 
