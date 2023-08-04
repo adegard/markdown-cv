@@ -18,7 +18,7 @@ Chemical Engineer, Sales Manager
 
 ## Currently
 
-Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
+Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
 
 
 ### Summary
@@ -39,10 +39,9 @@ Technical Sales & Application Manager at <a href="https://www.decimpianti.com/">
 
 ### Top skills
 
-- Sales management
-- Marketing
+- Sales / Marketing
 - Chemical Engineering
-- Lean Six Sigma 
+- Lean / Six Sigma 
 - Programming (eg. javascript, Apps Script, HTML)
 
 ### Languages
