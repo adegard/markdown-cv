@@ -14,7 +14,7 @@ Chemical Engineer, Sales Manager
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
 | <a href="https://github.com/adegard/">Github</a>  
 
-🏠 Cesate (MI), Lombardy, Italy
+🏠 <a href="https://maps.app.goo.gl/QGSkvbxSjuGPVETu6">Cesate (MI), Lombardy, Italy</a> 
 
 ## Currently
 
