@@ -31,7 +31,7 @@ Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</
 
 *Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders.* 
 
-*I have a love for programming, which I use to improve my work processes (Google apps scripts, javascript, HTML...).* 
+*I have a love for programming small apps or scripts, which I use to improve my work processes.* 
 
 *I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
 
