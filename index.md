@@ -42,7 +42,7 @@ Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</
 - Sales / Marketing
 - Chemical Engineering
 - Lean / Six Sigma 
-- Programming (eg. javascript, Apps Script, HTML)
+- Programming (mainly JavaScript)
 
 ### Languages
 
