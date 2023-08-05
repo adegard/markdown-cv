@@ -86,14 +86,17 @@ __BOLTON MANITOBA S.p.A.__, Nova Milanese, Lombardia, Italia, <a href="https://w
 
 Plant Development Specialist - Projects/Maintenance
 
-- I worked as a Plant Development Specialist - Maintenance. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and piping/instrumentation specifications. I also managed plant maintenance interventions, providing training to production people. I worked also with Software Engineer designing logical control sequences, and conducting HAZOP studies. 
+- I worked as a Plant Development Specialist - Maintenance. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and piping/instrumentation specifications. 
+- I also managed plant maintenance interventions, providing training to production people. I worked also with Software Engineer designing logical control sequences, and conducting HAZOP studies. 
 
 `09/2002-2010`
 __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://www.solvay.com/en/">solvay.com</a>
 
 Chemical process engineer & Lean Six Sigma Black Belt
 
-- I was working as Chemical process engineer and Six Sigma Black Belt at Solvay (ex-Rhodia) at Ospiate di Bollate production site, Italy. During my time there, I was also responsible for World Class Manufacturing (following production KPI). My Black Belt qualification, allowed me to lead over 10 international projects. I also designed new plants and chemical process modifications (elaboration of P&I, data sheet, specifications), for various plant modifications, meanwhile designing logical control sequences, and conducting HAZOP studies.
+- I was working as Chemical process engineer and Six Sigma Black Belt at Solvay (ex-Rhodia) at Ospiate di Bollate production site, Italy. 
+- During my time there, I was also responsible for World Class Manufacturing (following production KPI). My Black Belt qualification, allowed me to lead over 10 international projects. 
+- I also designed new plants and chemical process modifications (elaboration of P&I, data sheet, specifications), for various plant modifications, meanwhile designing logical control sequences, and conducting HAZOP studies.
 This site is specialized in the production of surfactants for the industry and agriculture.
 
 `03/2002-08/2002`
