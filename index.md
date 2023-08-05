@@ -54,12 +54,12 @@ Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</
 ## Education
 
 `2000-2003`
-__Ecole supérieure de Chimie Physique Electronique de Lyon, Master's degree, ⚗️🧪 Chemical Engineering.__
+__Ecole supérieure de Chimie Physique Electronique de Lyon, Master's degree, Chemical Engineering.__
 
 - <a href="https://www.cpe.fr/">cpe.fr</a>
 
 `1997 - 1999`
-__Université François Rabelais de Tours, Bachelor's degree, 🧫🧬Biology.__
+__Université François Rabelais de Tours, Bachelor's degree, Biology.__
 
 - <a href="https://www.univ-tours.fr/">univ-tours.fr</a>
 
@@ -77,8 +77,8 @@ __ASE Soc Coop.__, Saronno, Lombardia, Italia
 
 CEO & Sales Office Manager
 
-- I built ASE Soc Coop company, installing 2 offices (Saronno & Como), with 2 direct sales people hired for Customer meetings and the company were managing around 100 co-workers.The scope was the HR research and selection of people for Healthcare services.
-- This activity allowed me to experience in managing multi-channel retail business, meanwhile focusing on digital transformation with Financial management
+- I built ASE Soc Coop company, installing 2 offices (Saronno & Como), with two direct sales people hired for Customer meetings and HR. The company were managing around 100 co-workers.The scope was the HR research and selection of people for Healthcare services.
+- This activity allowed me to experience in managing a B2C retail business, meanwhile focusing on HR database platform, financial management
 and Team Leadership.  
 
 `2010-2011`
@@ -86,14 +86,14 @@ __BOLTON MANITOBA S.p.A.__, Nova Milanese, Lombardia, Italia, <a href="https://w
 
 Plant Development Specialist - Projects/Maintenance
 
-- I worked as a Plant Development Specialist - Projects/Maintenance. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and piping/instrumentation specifications. I also managed mixing plant maintenance interventions, provided training to production personnel, designed logical control sequences, and conducted HAZOP. 
+- I worked as a Plant Development Specialist - Maintenance. The company was involved in the production of household detergents. During my time there, I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and piping/instrumentation specifications. I also managed plant maintenance interventions, providing training to production people. I worked also with Software Engineer designing logical control sequences, and conducting HAZOP studies. 
 
 `09/2002-2010`
 __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://www.solvay.com/en/">solvay.com</a>
 
 Chemical process engineer & Lean Six Sigma Black Belt
 
-- I was a Chemical process engineer, Lean - Six Sigma Black Belt at Solvay (ex-Rhodia) at Ospiate di Bollate production site, Italy. During my time at Solvay (ex-Rhodia), I had the role of a Chemical Plant Design - Six Sigma Black Belt, where I was responsible for World Class Manufacturing (KPI) and leading Lean-Six Sigma projects (Black Belt qualification), leading over 10 international projects. I also designed new plants and chemical process modifications (P&I, data sheet, specification cahier des charges), managed mixing plant maintenance interventions, designed logical control sequences, and conducted HAZOP.
+- I was working as Chemical process engineer and Six Sigma Black Belt at Solvay (ex-Rhodia) at Ospiate di Bollate production site, Italy. During my time there, I was also responsible for World Class Manufacturing (following production KPI). My Black Belt qualification, allowed me to lead over 10 international projects. I also designed new plants and chemical process modifications (elaboration of P&I, data sheet, specifications), for various plant modifications, meanwhile designing logical control sequences, and conducting HAZOP studies.
 This site is specialized in the production of surfactants for the industry and agriculture.
 
 `03/2002-08/2002`
