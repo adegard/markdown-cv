@@ -139,7 +139,7 @@ Process Engineer - internship
 
 Autocad, Visio, chemical properties software, Microsoft's Office, Google Workspace, Minitab... etc.
 
-## Programming languages 
+## Programming languages (intermediate level)
 
 JavaScript, Google Apps Script, HTML, PHP, AHK, Visual Basic, R, Python, Markdown,...etc.
 
