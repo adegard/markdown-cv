@@ -94,8 +94,8 @@ __SOLVAY (ex-Rhodia)__, Ospiate di Bollate, Lombardia, Italia <a href="https://w
 
 Chemical process engineer & Lean Six Sigma Black Belt
 
-- I was working as Chemical process engineer and Six Sigma Black Belt at Solvay (ex-Rhodia) at Ospiate di Bollate production site, Italy. 
-- During my time there, I was also responsible for World Class Manufacturing (following production KPI). My Black Belt qualification, allowed me to lead over 10 international projects. 
+- I was working as Chemical process engineer and Six Sigma Black Belt. This qualification, allowed me to lead over 10+ international projects. 
+- During my time there, I was also responsible for World Class Manufacturing (following production KPI). 
 - I also designed new plants and chemical process modifications (elaboration of P&I, data sheet, specifications), for various plant modifications, meanwhile designing logical control sequences, and conducting HAZOP studies.
 This site is specialized in the production of surfactants for the industry and agriculture.
 
