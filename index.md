@@ -2,9 +2,9 @@
 layout: cv
 title: Arnaud Degardin - Curriculum Vitae
 ---
-
+<figure>
 <img src="https://media.licdn.com/dms/image/C4E03AQFtOn-W8rJWJA/profile-displayphoto-shrink_200_200/0/1652964404901?e=1695254400&v=beta&t=Cf5zTGK2wNxJRFPmZW5WBdXK2oB_CnKp4mqPgcqxkHI"  align="center" width="200px">
-
+</figure>
 # Arnaud DEGARDIN
 Sales Manager, Chemical Engineer, Developer
 
