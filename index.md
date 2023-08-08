@@ -143,8 +143,9 @@ Autocad/Bricscad, Visio, chemical properties software, Microsoft's Office, Googl
 
 ## Programming languages 
 
-- Advanced: JavaScript, Google Apps Script, HTML, PHP, AHK, Visual Basic
-- Basic: R, Python, React.js, Angular.js
+- Advanced: Google Apps Script, HTML
+- Intermediate: JavaScript, PHP, Visual Basic
+- Basic: CSS, R, Python, React.js, Angular.js
 
 ## Recommandation
 
