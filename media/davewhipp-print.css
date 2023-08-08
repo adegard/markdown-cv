@@ -64,7 +64,7 @@ body {
 	margin-left: 1em;*/
 }
 
-p {
+p, myfigure {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.2em;
