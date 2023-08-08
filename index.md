@@ -42,7 +42,7 @@ Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</
 - Sales / Marketing
 - Chemical Engineering
 - Lean / Six Sigma 
-- Programming (mainly JavaScript)
+- Programming
 
 ### Languages
 
@@ -70,7 +70,9 @@ __DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.decimp
 
 Technical Sales & Application Manager
 
-- I am currently working as the Technical Sales & Application Manager at DEC IMPIANTI S.p.A. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation. To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East to promote DEC Impianti's VOC recovery solutions towarded to Circular Economy and CO2 footprint reduction.
+- I am currently working as the Technical Sales & Application Manager at DEC IMPIANTI S.p.A. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation. 
+- To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East to promote DEC Impianti's VOC recovery solutions towarded to Circular Economy and CO2 footprint reduction.
+- In order to accelerate the Sales development, I built a proposal "configurator" and CRM for the internal Sales team (using google apps script)
 
 `2012-2018`
 __ASE Soc Coop.__, Saronno, Lombardia, Italia 
@@ -78,7 +80,7 @@ __ASE Soc Coop.__, Saronno, Lombardia, Italia
 CEO & Sales Office Manager
 
 - Company startup, installing two offices (Saronno & Como), with two direct sales people hired for Customer meetings and HR selections. The company were managing around 100 co-workers. The scope was the Human Resources research and selection of people for Healthcare services (Authorised HR agency).
-- This activity allowed me to experience in managing a B2C business, meanwhile focusing on HR platform, financial management
+- This activity allowed me to experience in managing a B2C business, meanwhile focusing on HR platform (in PHP), financial management
 and Team Leadership.  
 
 `2010-2011`
@@ -139,7 +141,7 @@ Process Engineer - internship
 
 Autocad, Visio, chemical properties software, Microsoft's Office, Google Workspace, Minitab... etc.
 
-## Programming languages (intermediate level)
+## Programming languages 
 
 JavaScript, Google Apps Script, HTML, PHP, AHK, Visual Basic, R, Python, Markdown,...etc.
 
