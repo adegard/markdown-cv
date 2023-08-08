@@ -19,7 +19,7 @@ Sales Manager, Chemical Engineer, Developer
 
 ## Currently
 
-Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
+Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
 
 
 ### Summary
