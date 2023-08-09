@@ -83,7 +83,7 @@ CEO & Sales Office Manager
 
 - Company startup, installing two offices (Saronno & Como), with two direct sales people hired for Customer meetings and HR selections. The company were managing around 100 co-workers. The scope was the Human Resources research and selection of people for Healthcare services (Authorised HR agency).
 - This activity allowed me to experience in managing a B2C business, meanwhile focusing on financial management and Team Leadership.  
-- Development of the HR platform for people registration and customer marketing (made in PHP).
+- Development of the HR platform for people registration and customer marketing (made in PHP+SQL).
 
 `2010-2011`
 __BOLTON MANITOBA S.p.A.__, Nova Milanese, Lombardia, Italia, <a href="https://www.boltongroup.net/">boltongroup.net</a>
@@ -147,7 +147,7 @@ Autocad/Bricscad, Visio, chemical properties software, Microsoft's Office, Googl
 
 - Advanced: Google Apps Script, HTML
 - Intermediate: JavaScript, PHP, Visual Basic
-- Basic: CSS, R, Python, React.js, Angular.js
+- Basic: SQL, CSS, R, Python, React.js, Angular.js
 
 ## Recommandation
 
