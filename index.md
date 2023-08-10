@@ -133,10 +133,10 @@ Process Engineer - internship
 🏅Six Sigma Black Belt, from Six Sigma Accademy, <a href="https://www.sixsigmacouncil.org/">sixsigmacouncil.org</a>
 
 `2008`
-🏅 Vigili ausiliari - Fire Guard License, <a href="https://www.silpa.org/">SILPA.org</a>
+🏅 Fire Guard License (for Rhodia production site), <a href="https://www.silpa.org/">SILPA.org</a>
 
 `2009`
-🏅 Patente Gas Tossici - Toxic Gas License (Ossido di Etilene - Ethylene Oxyde), <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esami-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServizi.it</a> 
+🏅 Toxic Gas License (Ethylene Oxyde), Patente Gas Tossici - Ossido di Etilene <a href="https://www.assolombardaservizi.it/courses/gas-tossici-preparazione-agli-esami-per-il-conseguimento-della-patente-di-abilitazione/">AssolombardaServizi.it</a> 
 
 `1997`
 🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/le-brevet-d-aptitude-aux-fonctions-d-animateur-bafa-253">BAFA</a>
