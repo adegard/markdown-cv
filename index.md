@@ -24,7 +24,7 @@ Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
 
 ### Summary
 
-*I am a french Chemical Engineer and Sales Manager with a focus mainly on industrial plants.*
+*I am a french Chemical Engineer and Sales Manager with a focus mainly on industrial solutions.*
 
 *I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges and improving company processes (Lean).*
   
