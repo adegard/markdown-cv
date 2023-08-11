@@ -75,7 +75,7 @@ Technical Sales & Application Manager
 - I am currently working as the Technical Sales & Application Manager. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation. 
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
 - In order to accelerate the Sales development, I also built a sales proposal "configurator" and a CRM, usable by the Sales team.
-- For the leads expansion, I participate regularly to Fairs and make speach during association's meetings, linked to the main core Market: the flexible packaging industry.
+- For the leads expansion, I participate regularly to Fairs and make public speaches during association's meetings, linked to the main core Market: the flexible packaging industry.
 
 `2012-2018`
 __ASE Soc Coop.__, Saronno, Lombardia, Italia 
