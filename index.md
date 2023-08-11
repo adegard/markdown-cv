@@ -72,7 +72,8 @@ __DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.decimp
 Technical Sales & Application Manager
 
 - DEC Impianti's promotes VOC abatement industrial solutions, meanwhile allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
-- I am currently working as the Technical Sales & Application Manager. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation, with Customers. 
+- I am currently working as the Technical Sales & Application Manager. In this role, I am responsible for representing the company and its products to the market Customers: preparing project feasibility, preliminary layout, proposal calculation.
+- I'm directly involved in commercial negotiation with Customers. 
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
 - In order to accelerate the Sales development, I also built a sales proposal "configurator" and a CRM, usable by the Sales team.
 - For the leads expansion, I participate regularly to Fairs and make public speaches during association's meetings, linked to the main core Market: the flexible packaging industry.
@@ -91,8 +92,9 @@ __BOLTON MANITOBA S.p.A.__, Nova Milanese, Lombardia, Italia, <a href="https://w
 
 Plant Development Specialist - Projects/Maintenance
 
-- The company was involved in the production of household detergents. 
-- I was responsible for the design of new plants and chemical process modifications, including P&I, Data sheets, Yellow Reviews, and piping/instrumentation specifications. 
+- The company is involved in the production of household detergents. 
+- I was responsible for the design of new plants (eg. Ethanol storage tank and dosing ayatem, hypochlorite tank and dosing system).
+- to fulfill this activity, I managed to prepare P&I drawings, Data sheets, Yellow Reviews and piping/instrumentation specifications. 
 - I also managed plant maintenance interventions, providing training to production people. I worked also with Software Engineer designing logical control sequences, and conducting HAZOP studies. 
 
 `09/2002-2010`
