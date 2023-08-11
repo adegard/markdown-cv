@@ -11,7 +11,8 @@ Sales Manager, Chemical Engineer, Developer
 
 ✉️ <a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
 | 📞 available on request
-</br>🌐 <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
+
+🌐 <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
 | <a href="https://github.com/adegard/">Github</a>  
 
