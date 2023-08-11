@@ -81,8 +81,8 @@ __ASE Soc Coop.__, Saronno, Lombardia, Italia
 
 CEO & Sales Office Manager
 
-- Company startup, installing two offices (Saronno & Como), with two direct sales people hired for Customer meetings and HR selections. The company were managing around 100 co-workers. The scope was the Human Resources research and selection of people for Healthcare services (Authorised HR agency).
-- This activity allowed me to experience in managing a B2C business, meanwhile focusing on entrepreneurship aspects (especially financial management and Team building).  
+- Healthcare services Company with two offices (Saronno & Como). The company were managing around 100 co-workers. The scope was the Human Resources research and selection for Healthcare services (Authorised HR agency).
+- This activity allowed me to experience in managing a B2C business, meanwhile focusing on entrepreneurship aspects (especially sales, financial management and Team building).  
 - Development of the HR platform for people registration and customer marketing (made in PHP+SQL).
 
 `2010-2011`
