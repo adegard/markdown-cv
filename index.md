@@ -72,7 +72,7 @@ __DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.decimp
 Technical Sales & Application Manager
 
 - DEC Impianti's promotes VOC abatement industrial solutions, meanwhile allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
-- In this role, I am responsible for representing the company and its products to the market Customers: preparing project feasibility, preliminary layout, proposal calculation.
+- I am responsible for representing the company and its products to the market Customers: preparing project feasibility, preliminary layout, proposal calculation defining pricing strategy for assigned products to support revenue goal.
 - I'm directly involved in commercial negotiation with Customers. 
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
 - In order to accelerate the Sales development, I also built a sales proposal "configurator" and a CRM, usable by the Sales team.
