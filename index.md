@@ -71,10 +71,11 @@ __DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.decimp
 
 Technical Sales & Application Manager
 
-- DEC Impianti's promotes VOC abatement industrial solutions, meanwhile allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization).
-- I am currently working as the Technical Sales & Application Manager at DEC IMPIANTI S.p.A. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation. 
+- DEC Impianti's promotes VOC abatement industrial solutions, meanwhile allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
+- I am currently working as the Technical Sales & Application Manager. In this role, I am responsible for representing the company and its products in the market, from project feasibility, proposal preparation to negotiation. 
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
 - In order to accelerate the Sales development, I also built a sales proposal "configurator" and a CRM, usable by the Sales team.
+- For the leads expansion, I participate regularly to Fairs and make speach during association's meetings, linked to the main core Market: the flexible packaging industry.
 
 `2012-2018`
 __ASE Soc Coop.__, Saronno, Lombardia, Italia 
