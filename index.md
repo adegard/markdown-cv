@@ -152,9 +152,9 @@ Process Engineer - internship
 
 ## Programming languages (most important)
 
-- Advanced: Google Apps Script, HTML
-- Intermediate: JavaScript, PHP, Python
-- Basic: SQL, CSS, R, React.js, Angular.js, Visual Basic
+- Advanced: <a href="https://www.google.com/script/start/">Google Apps Script</a>, <a href="https://www.w3schools.com/html/">HTML</a>
+- Intermediate: <a href="https://www.w3schools.com/js/DEFAULT.asp">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/PHP">PHP</a>, <a href="https://www.python.org/">Python</a>
+- Basic: <a href="https://www.w3schools.com/sql/">SQL</a>, <a href="https://www.w3schools.com/Css/">CSS</a>, <a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a>, <a href="https://react.dev/">React.js</a>
 
 ## Recommandation
 
