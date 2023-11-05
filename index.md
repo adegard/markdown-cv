@@ -146,13 +146,13 @@ Process Engineer - internship
 
 ## Softwares 
 
-Autocad/Bricscad, Visio, chemical properties software, Microsoft's Office, Google Workspace, Minitab... etc.
+Autocad/Bricscad, Blender, Visio, chemical properties software, Microsoft's Office, Google Workspace, Minitab... etc.
 
-## Programming languages 
+## Programming languages (most important)
 
 - Advanced: Google Apps Script, HTML
-- Intermediate: JavaScript, PHP, Visual Basic
-- Basic: SQL, CSS, R, Python, React.js, Angular.js
+- Intermediate: JavaScript, PHP, Python
+- Basic: SQL, CSS, R, React.js, Angular.js, Visual Basic
 
 ## Recommandation
 
