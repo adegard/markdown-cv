@@ -146,9 +146,9 @@ Process Engineer - internship
 
 ## Softwares (most important)
 
-Office: Microsoft's Office, Google Workspace
-2D/3D drawing: Autocad/Bricscad, Blender, Inkscape 
-Stastic: Minitab
+- Office: Microsoft's Office, Google Workspace
+- 2D/3D drawing: Autocad/Bricscad, Blender, Inkscape 
+- Stastics: Minitab
 
 ## Programming languages (most important)
 
