@@ -144,9 +144,9 @@ Process Engineer - internship
 `1997`
 🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/le-brevet-d-aptitude-aux-fonctions-d-animateur-bafa-253">BAFA</a>
 
-## Softwares 
+## Softwares (most important)
 
-Autocad/Bricscad, Blender, Visio, chemical properties software, Microsoft's Office, Google Workspace, Minitab... etc.
+Autocad/Bricscad, Blender, Microsoft's Office, Google Workspace, Minitab
 
 ## Programming languages (most important)
 
