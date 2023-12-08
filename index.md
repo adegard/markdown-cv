@@ -19,7 +19,7 @@ Sales Manager, Chemical Engineer, Developer
 
 ## Currently
 
-Sales Manager at <a href="https://www.decimpianti.com/">DEC Impianti</a>
+Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
 
 
 ### Summary
@@ -67,11 +67,11 @@ __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 ## Occupation
 
 `2019-Present`
-__DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.decimpianti.com/">decimpianti.com</a>
+__DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
 
 Technical Sales & Application Manager
 
-- DEC Impianti's promotes VOC abatement industrial solutions, meanwhile allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
+- DEC's promotes VOC abatement solutions (solvent recovery by activated carbon adsorption), allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
 - I am responsible for representing the company and its products to the market Customers: preparing project feasibility, preliminary layout, proposal calculation defining pricing strategy and writing related contractual document.
 - I'm directly involved in commercial negotiation with Customers. 
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
