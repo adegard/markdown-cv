@@ -24,7 +24,7 @@ Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
 
 ### Summary
 
-*I am a french Chemical Engineer and Sales Manager with a focus mainly on industrial solutions.*
+*I am a french Chemical Engineer, actually Sales Manager with a focus mainly on industrial solutions.*
 
 *I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges and improving company processes (Lean).*
   
@@ -32,7 +32,7 @@ Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
 
 *Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders.* 
 
-*I have a love for programming small apps or scripts, which I use to improve the company work processes.* 
+*I like programming small apps or scripts, which I use to improve my job processes.* 
 
 *I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
 
@@ -71,7 +71,7 @@ __DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.gr
 
 Technical Sales & Application Manager
 
-- DEC's promotes VOC abatement solutions (solvent recovery by activated carbon adsorption), allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
+- DEC's promotes VOC abatement solutions (solvent recovery by activated carbon adsorption/desorption), allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
 - I am responsible for representing the company and its products to the market Customers: preparing project feasibility, preliminary layout, proposal calculation defining pricing strategy and writing related contractual document.
 - I'm directly involved in commercial negotiation with Customers. 
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
