@@ -19,30 +19,28 @@ Chemical Engineer
 
 ## Currently
 
-Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
+Technical Sales Manager
 
 
 ### Summary
 
 *I am a french Chemical Engineer, actually Sales Manager with a focus mainly on industrial solutions.*
 
-*I am a creative problem-solver with communication skills, and a passion for implementing new and innovative technologies to help solve challenges and improving company processes (Lean).*
-  
-*My background in team management and sales, combined with my technical proficiency, has enabled me to provide efficient and effective results oriented to customer satisfaction.* 
+*I am a problem-solver with communication skills and passion for implementing innovative solutions and improve  processes (Lean).*
 
 *Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders.* 
 
-*I like programming small apps or scripts, which I use to improve my job processes.* 
+*I like also programming small apps or scripts, which I use to improve all kind of work processes.* 
 
-*I frequently travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
+*I travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
 
-*I love Italy, where I live, with my wife and my daughter.*
+*I'm living in Italy with my wife and my daughter.*
 
 ### Top skills
 
-- Sales / Marketing
+- Sales 
 - Chemical Engineering
-- Lean / Six Sigma 
+- Six Sigma 
 - Programming
 
 ### Languages
@@ -50,7 +48,7 @@ Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
 - French : native
 - Italian : fluent
 - English : fluent
-- German : basis
+- German : basic school knowledges
 
 ## Education
 
@@ -67,16 +65,15 @@ __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 ## Occupation
 
 `2019-Present`
-__DEC IMPIANTI S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
+__DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
 
 Technical Sales & Application Manager
 
-- DEC's promotes VOC abatement solutions (solvent recovery by activated carbon adsorption/desorption), allowing Circular Economy and CO2 footprint reduction (Sustainability/Decarbonization). The systems are mainly used for chemical, pharmaceutical industries and also for flexible packaging industry.
-- I am responsible for representing the company and its products to the market Customers: preparing project feasibility, preliminary layout, proposal calculation defining pricing strategy and writing related contractual document.
-- I'm directly involved in commercial negotiation with Customers. 
+- DEC's promotes VOC abatement solutions: mainly solvent recovery system for VOC filtration on activated carbon adsorption, and reuse after desorption, allowing Circular Economy and CO2 footprint reduction. Those systems are mainly employed in chemical, pharmaceutical industries and also in flexible packaging converting processes.
+- I am representing DEC and its products to the Customers: from leads first contacts,  project feasibility study, preliminary layout, proposal definition, negociation and contract redaction.
 - To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
-- In order to accelerate the Sales development, I also built a sales proposal "configurator" and a CRM, usable by the Sales team.
-- For the leads expansion, I participate regularly to Fairs and make public speaches during association's meetings, linked to the main core Market: the flexible packaging industry.
+
+- For the leads expansion, I participate regularly to Fairs/Exhibitions and make public speaches during sectorial association's meetings.
 
 `2012-2018`
 __ASE Soc Coop.__, Saronno, Lombardia, Italia 
@@ -150,7 +147,7 @@ Process Engineer - internship
 - 2D/3D drawing: <a href="https://www.autodesk.com/products/autocad/overview">Autocad</a>, <a href="https://www.bricsys.com/">Bricscad</a>, <a href="https://www.blender.org/">Blender</a>, <a href="https://inkscape.org/">Inkscape</a> 
 - Stastics: <a href="https://www.minitab.com/">Minitab</a>
 
-## Programming languages (most important)
+## Programming languages (knowledges)
 
 - Advanced: <a href="https://www.google.com/script/start/">Google Apps Script</a>, <a href="https://www.w3schools.com/html/">HTML</a>
 - Intermediate: <a href="https://www.w3schools.com/js/DEFAULT.asp">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/PHP">PHP</a>, <a href="https://www.python.org/">Python</a>
