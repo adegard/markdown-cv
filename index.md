@@ -7,7 +7,7 @@ title: Arnaud Degardin - Curriculum Vitae
 </myfigure>
 
 # Arnaud DEGARDIN
-Sales Manager, Chemical Engineer, Developer
+Techincal Sales Manager, Chemical Engineer, Business Developer
 
 ✉️ <a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
 | 📞 available on request
@@ -19,7 +19,7 @@ Sales Manager, Chemical Engineer, Developer
 
 ## Currently
 
-Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
+Technical Sales Manager at <a href="https://www.decimpianti.com/">DEC</a>
 
 
 ### Summary
