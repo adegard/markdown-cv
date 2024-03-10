@@ -19,22 +19,12 @@ Chemical Engineer
 
 ## Currently
 
-Technical Sales Manager
+Business Developer
 
 
 ### Summary
 
 *I am a french Chemical Engineer, actually Sales Manager with a focus mainly on industrial solutions.*
-
-*I am a problem-solver with communication skills and passion for implementing innovative solutions and improve  processes (Lean).*
-
-*Fluent in French, Italian, and English, I am able to communicate effectively with a wide range of clients and stakeholders.* 
-
-*I like also programming small apps or scripts, which I use to improve all kind of work processes.* 
-
-*I travel throughout Europe, North Africa, and the Middle East to represent my company and build relationships with customers.*
-
-*I'm living in Italy with my wife and my daughter.*
 
 ### Top skills
 
@@ -65,13 +55,40 @@ __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 ## Occupation
 
 `2019-Present`
+__ENOGIA SA__, Milan, Lombardia, Italia, <a href="https://www.enogia.com/">enogia.com</a>
+
+Business Developer, South Europe
+
+ENOGIA is producing ORC systems, which can generate clean energy from almost any source of low-temperature (>70°C) heat (from Hot oil, steam, hot gas stack, hot water....etc), and have a wide range of applications:
+
+• HEAT RECOVERY 
+ - Heat Recovery from Industrial Processes
+ - Heat recovery from Engines Cooling (gas stack & Jacket Water)
+ - Heat recovery from Boilers Gas Stacks
+ - Heat recovery from Air Compressors Cooling
+
+• POWER GENERATION
+ - Power generation from biogas combustion
+ - Power generation from biomass/waste combustion
+ - Power generation from geothermal heat
+ - Power generation from solar heat
+
+ENOGIA enables its customers to produce decarbonised electricity and to recover waste or renewable heat.
+
+ENOGIA offers the largest range of small ORC machines on the market, with modules rated from 10kW to 180kW of electricity. ENOGIA’s unique architecture keeps operations, supervision and maintenance as intuitive as possible.
+
+ENOGIA is one of the only companies in the world that proposes ORC modules that use waste heat from 70°C, with "no-oil" lubrification concept and pre-assembled and pre-tested units, thus allowing plug-and-play installation, long life and reliability.
+
+ORC modules help transform heat into electricity and to recover it.
+  
+`2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
 
 Technical Sales & Application Manager
 
 - DEC's promotes VOC abatement solutions: mainly solvent recovery system for VOC filtration on activated carbon adsorption, and reuse after desorption, allowing Circular Economy and CO2 footprint reduction. Those systems are mainly employed in chemical, pharmaceutical industries and also in flexible packaging converting processes.
-- I am representing DEC and its products to the Customers: from leads first contacts,  project feasibility study, preliminary layout, proposal definition, negociation and contract redaction.
-- To fulfill this responsibility, I regularly travel throughout Europe, North Africa, and the Middle East.
+- I was representing DEC and its products to the Customers: from leads first contacts,  project feasibility study, preliminary layout, proposal definition, negociation and contract redaction.
+- To fulfill this responsibility, I regularly travelled throughout Europe, North Africa, and the Middle East.
 
 - For the leads expansion, I participate regularly to Fairs/Exhibitions and make public speaches during sectorial association's meetings.
 
