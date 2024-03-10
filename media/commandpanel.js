@@ -167,53 +167,14 @@ panel.appendChild(subpanel);
 
 document.querySelector("body").appendChild(panel);
 
- 
-// Serch Web Archive
-//htmlcode =  "javascript:(function(){window.location='http://web.archive.org/web/*/' + document.URL})()' > Web Archive</a></ul>" ;
-
-//==================
-
-
-
-add_label("Useful");
-
-//add_mark("Tiny URL", "javascript:void(open('http://tinyurl.com/create.php?url='+encodeURIComponent(location.href)))");
 add_mark("QR Code", "javascript:(function(){if(document.getElementById){var x=document.body;var o=document.createElement('script');if(typeof(o)!='object') o=document.standardCreateElement('script');o.setAttribute('src','http://qrbookmarklet.googlecode.com/svn/trunk/qr.js');o.setAttribute('type','text/javascript');x.appendChild(o);}})();");
-//add_mark("Web Archive", "javascript:(function(){window.location='http://web.archive.org/web/*/' + document.URL})()");
-//add_mark("Image Search" , "javascript:void((function(){var sir=document.createElement('script');sir.setAttribute('src','http://cdnjs.cloudflare.com/ajax/libs/require.js/0.26.0/require.min.js');sir.setAttribute('type','text/javascript');document.getElementsByTagName('head')[0].appendChild(sir);var sib=document.createElement('script');sib.setAttribute('src','http://jarred.github.com/src-img/js/app/bookmarklet.js?version=0.66');sib.setAttribute('type','text/javascript');document.getElementsByTagName('head')[0].appendChild(sib);})());") ;
-//add_mark("Print What You Like", "javascript:(function(){if(window['ppw']&&ppw['bookmarklet']){ppw.bookmarklet.toggle();}else{window._pwyl_home='//www.printwhatyoulike.com/';window._pwyl_pro_id=null;window._pwyl_bmkl=document.createElement('script');window._pwyl_bmkl.setAttribute('type','text/javascript');window._pwyl_bmkl.setAttribute('src',window._pwyl_home+'static/compressed/pwyl_bookmarklet_10.js');window._pwyl_bmkl.setAttribute('pwyl','true');document.getElementsByTagName('head')[0].appendChild(window._pwyl_bmkl);}})();");
 add_mark("NightView", "javascript:(function () { var css = 'html {-webkit-filter: invert(100%);' + '-moz-filter: invert(100%);' + '-o-filter: invert(100%);' + '-ms-filter: invert(100%); } img {-webkit-filter: invert(100%);' + '-moz-filter: invert(100%);' + '-o-filter: invert(100%);' + '-ms-filter: invert(100%); } video {-webkit-filter: invert(100%);' + '-moz-filter: invert(100%);' + '-o-filter: invert(100%);' + '-ms-filter: invert(100%); } html { background-color: transparent; }'; var head = document.getElementsByTagName('head')[0]; var style = document.createElement('style'); if (!window.counter) { window.counter = 1; } else { window.counter++; if (window.counter % 2 == 0) { var css = 'html{-webkit-filter:invert(0%);-moz-filter:invert(0%);-o-filter:invert(0%);-ms-filter:invert(0%);}img{-webkit-filter:invert(0%);-moz-filter:invert(0%);-o-filter:invert(0%);-ms-filter:invert(0%);}video{-webkit-filter:invert(0%);-moz-filter:invert(0%);-o-filter:invert(0%);-ms-filter:invert(0%);}html{background-color:transparent;}' } } style.type = 'text/css'; if (style.styleSheet) { style.styleSheet.cssText = css; } else { style.appendChild(document.createTextNode(css)); } head.appendChild(style); document.body.style.backgroundColor='#111';%20}());");
 
-
-//add_mark("Show All Links", "#",  showAllLinks)
-//add_mark("Show All Links", "javascript:" + showAllLinks.toString())
 add_mark("Show All Links", showAllLinks)
 
 add_mark("Show Cookies", ShowCookies) ;
 
-//==================
-//add_label("Web Dev");
-
-//add_mark("Inject JQuery", "javascript:void(function(){document.body.appendChild(document.createElement('script')).src='http://code.jquery.com/jquery-1.7.2.min.js' })();");
-
-
-//add_mark("Run Functional.js",
-//"javascript:void(function(){document.body.appendChild(document.createElement('script')).src='http://caiorss.github.io/functional.js' })();");
-
-
-//add_mark("Execute HTML", "javascript:var txt='';function getSelText(wndw){var sel='';if(document.all){sel=wndw.document.selection.createRange().text;}else{sel=wndw.window.getSelection();}return sel;}void(frms=window.frames);if(frms.length==0){txt=getSelText(window);}else{for(iQA=0;iQA&lt;frms.length;iQA++){void(txt=getSelText(frms[iQA]));if(txt.length&gt;0){break;}}}while(txt.length==0){txt=promt('Input:');}win=window.open('','','');void(win.document.write(txt));void(win.document.close())");
-
-
-
-
-
-
-//==================
-add_label("Security and Auditing");
-
-add_mark("Remove Cookies", "javascript:void(document.cookie=null)");
-
-//add_mark("PwnYoutube", "javascript:(function(){url='http://deturl.com/download-video.js';document.body.appendChild(document.createElement('script')).src=url+'?'+new Date().getTime();})();") ;
+add_mark("Remove Ads", "javascript:(function(){    /* Ad-B-Gone: The simple bookmarklet that removes ads from web pages! Made by 3kh0. */    var selectors = [    /* By ID: */    '#sidebar-wrap',%20'#advert',%20'#xrail',%20'#middle-article-advert-container',%20%20%20%20'#sponsored-recommendations',%20'#around-the-web',%20'#sponsored-recommendations',%20%20%20%20'#taboola-content',%20'#taboola-below-taboola-native-thumbnails',%20'#inarticle_wrapper_div',%20%20%20%20'#rc-row-container',%20'#ads',%20'#at-share-dock',%20'#at4-share',%20'#at4-follow',%20'#right-ads-rail',%20%20%20%20'div#ad-interstitial',%20'div#advert-article',%20'div#ac-lre-player-ph',%20%20%20%20/*%20By%20Class:%20*/%20%20%20%20'.ad',%20'.avert',%20'.avert__wrapper',%20'.middle-banner-ad',%20'.advertisement',%20%20%20%20'.GoogleActiveViewClass',%20'.advert',%20'.cns-ads-stage',%20'.teads-inread',%20'.ad-banner',%20%20%20%20'.ad-anchored',%20'.js_shelf_ads',%20'.ad-slot',%20'.antenna',%20'.xrail-content',%20%20%20%20'.advertisement__leaderboard',%20'.ad-leaderboard',%20'.trc_rbox_outer',%20'.ks-recommended',%20%20%20%20'.article-da',%20'div.sponsored-stories-component',%20'div.addthis-smartlayers',%20%20%20%20'div.article-adsponsor',%20'div.signin-prompt',%20'div.article-bumper',%20'div.video-placeholder',%20%20%20%20'div.top-ad-container',%20'div.header-ad',%20'div.ad-unit',%20'div.demo-block',%20'div.OUTBRAIN',%20%20%20%20'div.ob-widget',%20'div.nwsrm-wrapper',%20'div.announcementBar',%20'div.partner-resources-block',%20%20%20%20'div.arrow-down',%20'div.m-ad',%20'div.story-interrupt',%20'div.taboola-recommended',%20%20%20%20'div.ad-cluster-container',%20'div.ctx-sidebar',%20'div.incognito-modal',%20'.OUTBRAIN',%20'.subscribe-button',%20%20%20%20'.ads9',%20'.leaderboards',%20'.GoogleActiveViewElement',%20'.mpu-container',%20'.ad-300x600',%20'.tf-ad-block',%20%20%20%20'.sidebar-ads-holder-top',%20'.ads-one',%20'.FullPageModal__scroller',%20%20%20%20'.content-ads-holder',%20'.widget-area',%20'.social-buttons',%20'.ac-player-ph',%20%20%20%20/*%20Other:%20*/%20%20%20%20'script',%20'iframe',%20'video',%20'aside#sponsored-recommendations',%20'aside[role="banner"]',%20'aside',%20%20%20%20'amp-ad',%20'span[id^=ad_is_]',%20'div[class*="indianapolis-optin"]',%20'div[id^=google_ads_iframe]',%20%20%20%20'div[data-google-query-id]',%20'section[data-response]',%20'ins.adsbygoogle',%20'div[data-google-query-id]',%20%20%20%20'div[data-test-id="fullPageSignupModal"]',%20'div[data-test-id="giftWrap"]'%20];%20%20%20%20for(let%20i%20in%20selectors)%20{%20%20%20%20%20%20%20%20let%20nodesList%20=%20document.querySelectorAll(selectors[i]);%20%20%20%20%20%20%20%20for(let%20i%20=%200;%20i%20<%20nodesList.length;%20i++)%20{%20%20%20%20%20%20%20%20%20%20%20%20let%20el%20=%20nodesList[i];%20%20%20%20%20%20%20%20%20%20%20%20if(el%20&&%20el.parentNode)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20el.parentNode.removeChild(el);%20%20%20%20%20%20%20%20}%20%20%20%20}})();");
 
 add_mark("Full URLs", fullUrls)
 
