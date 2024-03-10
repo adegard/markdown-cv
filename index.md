@@ -54,7 +54,7 @@ __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 
 ## Occupation
 
-`2019-Present`
+`02/2024-Present`
 __ENOGIA SA__, Milan, Lombardia, Italia, <a href="https://www.enogia.com/">enogia.com</a>
 
 Business Developer, South Europe
