@@ -20,7 +20,12 @@ async function fetchData() {
 		var subject = record.logs[0].target.subject;
 	}
 	var d = new Date();
-	 
+
+	//check answers by ADE on ast feed items:
+	let arrname=[];
+	for (let i = 0; i < record.logs.length; i++) { arrname[i] = record.logs[i].actor.display_name;} 
+	document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
+	
 	
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
 			localStorage.setItem('lastfeedCopper', subject);
@@ -49,6 +54,14 @@ async function fetchData() {
 }
 
 fetchData(); setInterval(fetchData, 180000);
+
+
+//USEFULL FUNCTIONS
+function count(arrname, element) {
+    return arrname.reduce((ele, arrayEle) =>
+        (arrayEle == element ? ele + 1 : ele), 0);
+};
+
 
 /**
 use https://caiorss.github.io/bookmarklet-maker/
