@@ -24,6 +24,7 @@ async function fetchData() {
 	//check answers by ADE on ast feed items:
 	let arrname=[];
 	for (let i = 0; i < record.logs.length; i++) { arrname[i] = record.logs[i].actor.display_name;} 
+	console.log("check ADE items");
 	document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
 	
 	
