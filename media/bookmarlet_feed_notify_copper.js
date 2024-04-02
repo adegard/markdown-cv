@@ -63,11 +63,7 @@ async function fetchData() {
 fetchData(); setInterval(fetchData, 180000);
 
 
-//USEFULL FUNCTIONS
-function count(arrname, element) {
-    return arrname.reduce((ele, arrayEle) =>
-        (arrayEle == element ? ele + 1 : ele), 0);
-};
+
 
 
 /**
