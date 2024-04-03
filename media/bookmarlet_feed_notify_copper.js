@@ -30,23 +30,21 @@ async function fetchData() {
 		(arrayEle == element ? ele + 1 : ele), 0);
 	};
 	
-	console.log("check ADE items ");
 	document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
-	
 	
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
 			localStorage.setItem('lastfeedCopper', subject);
-			console.log("not an email");
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="not an email "+d.toLocaleString();
+			console.log("not an email ");
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
 		}else{
 		if(localStorage.getItem('lastfeedCopper')==subject){
 			console.log("same one");
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="same one "+d.toLocaleString();
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
 			}else{
 				localStorage.setItem('lastfeedCopper', subject);
 				//window.location.href = 'https://app.copper.com/companies/190749/app#/feed';
 				console.log("updated");
-				document.getElementsByClassName("feed-welcome_title")[0].innerHTML="updated at "+d.toLocaleString();
+				document.getElementsByClassName("feed-welcome_title")[0].innerHTML="new email! 📨, updated at "+d.toLocaleString();
 				//add sound
  					var audio = new Audio('https://adegard.github.io/markdown-cv/media/mixkit-cooking-stopwatch-alert-1792.wav');
 					audio.addEventListener('canplay', () =>{
