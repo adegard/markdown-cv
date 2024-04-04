@@ -13,6 +13,8 @@ async function fetchData() {
 		)
 
    const record =await res.json();
+	//version to change at update
+	console.log("Version 1.0 ");
 	
 	if(record.logs[0].target ==null){
 		var subject = undefined;
@@ -20,7 +22,7 @@ async function fetchData() {
 		var subject = record.logs[0].target.subject;
 	}
 	var d = new Date();
-	if( d.getMinutes() > 55){
+	if( d.getMinutes() > 50){
 			//add sound for a break
 				var audio = new Audio('https://adegard.github.io/markdown-cv/media/ping-82822.mp3');
 				audio.addEventListener('canplay', () =>{
