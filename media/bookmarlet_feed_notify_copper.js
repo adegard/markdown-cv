@@ -52,7 +52,7 @@ async function fetchData() {
 						audio.addEventListener('canplay', () =>{
 							audio.play();
 						});
-					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="time to move our body! ";
+					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="time to move your body! ";
 				}else{
 					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
 				}	
