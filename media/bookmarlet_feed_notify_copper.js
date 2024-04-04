@@ -14,7 +14,7 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.0 ");
+	console.log("Version 1.1 ");
 	
 	if(record.logs[0].target ==null){
 		var subject = undefined;
@@ -22,14 +22,6 @@ async function fetchData() {
 		var subject = record.logs[0].target.subject;
 	}
 	var d = new Date();
-	if( d.getMinutes() > 50){
-			//add sound for a break
-				var audio = new Audio('https://adegard.github.io/markdown-cv/media/ping-82822.mp3');
-				audio.addEventListener('canplay', () =>{
-					audio.play();
-				});
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="time to move our body! ";
-		}
 
 	//check answers by ADE on ast feed items:
 	let arrname=[];
@@ -49,7 +41,16 @@ async function fetchData() {
 		}else{
 		if(localStorage.getItem('lastfeedCopper')==subject){
 			console.log("same one");
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
+				if( d.getMinutes() > 55){
+					//add sound for a break
+						var audio = new Audio('https://adegard.github.io/markdown-cv/media/ping-82822.mp3');
+						audio.addEventListener('canplay', () =>{
+							audio.play();
+						});
+					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="time to move our body! ";
+				}else{
+					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
+				}	
 			}else{
 				localStorage.setItem('lastfeedCopper', subject);
 				//window.location.href = 'https://app.copper.com/companies/190749/app#/feed';
