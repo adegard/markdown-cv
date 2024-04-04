@@ -20,6 +20,14 @@ async function fetchData() {
 		var subject = record.logs[0].target.subject;
 	}
 	var d = new Date();
+	if( d.getMinutes() > 55){
+			//add sound for a break
+				var audio = new Audio('https://adegard.github.io/markdown-cv/media/ping-82822.mp3');
+				audio.addEventListener('canplay', () =>{
+					audio.play();
+				});
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="time to move our body! ";
+		}
 
 	//check answers by ADE on ast feed items:
 	let arrname=[];
