@@ -14,17 +14,18 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.6 ");
+	console.log("Version 1.5 ");
 
 	//hide right bar
 	for (const elements of document.querySelectorAll('.feedActions')) {
 		  elements.style.display = 'none';
 	}
 	//add Image
+	/*
 	let img = new Image();
     	img.src ='https://enogia.com/wp-content/uploads/2021/04/logo-enogia-300x108.png';
     	document.querySelector('.feedDate').appendChild(img); 
-	
+	*/
 	if(record.logs[0].target ==null){
 		var subject = undefined;
 		}else{
