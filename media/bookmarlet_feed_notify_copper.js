@@ -14,7 +14,12 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.2 ");
+	console.log("Version 1.3 ");
+
+	//hide right bar
+	for (const elements of document.querySelectorAll('.feedActions')) {
+		  elements.style.display = 'none';
+	}
 	
 	if(record.logs[0].target ==null){
 		var subject = undefined;
