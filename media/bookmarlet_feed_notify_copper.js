@@ -14,7 +14,7 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.5 ");
+	console.log("Version 1.6 ");
 
 	//hide right bar
 	for (const elements of document.querySelectorAll('.feedActions')) {
@@ -56,7 +56,7 @@ async function fetchData() {
 						audio.addEventListener('canplay', () =>{
 							audio.play();
 						});
-					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="time to move your body! ";
+					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="🤸‍♀️🏃‍♂️time to move your body! ";
 				}else{
 					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
 				}	
