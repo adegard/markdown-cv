@@ -14,7 +14,7 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.3 ");
+	console.log("Version 1.4 ");
 
 	//hide right bar
 	for (const elements of document.querySelectorAll('.feedActions')) {
@@ -48,7 +48,7 @@ async function fetchData() {
 			console.log("same one");
 				if( d.getMinutes() > 55){
 					//add sound for a break
-						var audio = new Audio('https://adegard.github.io/markdown-cv/media/ping-82822.mp3');
+						var audio = new Audio('https://adegard.github.io/markdown-cv/media/wa-dealio-15-38113.mp3');
 						audio.addEventListener('canplay', () =>{
 							audio.play();
 						});
