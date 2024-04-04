@@ -14,7 +14,7 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.5");
+	console.log("Version 1.5 ");
 
 	//hide right bar
 	for (const elements of document.querySelectorAll('.feedActions')) {
