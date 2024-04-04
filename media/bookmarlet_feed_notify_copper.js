@@ -46,14 +46,12 @@ async function fetchData() {
 				console.log("updated");
 				document.getElementsByClassName("feed-welcome_title")[0].innerHTML="new email! 📨, updated at "+d.toLocaleString();
 				//add sound
- 					var audio = new Audio('https://adegard.github.io/markdown-cv/media/mixkit-cooking-stopwatch-alert-1792.wav');
+ 					var audio = new Audio('https://adegard.github.io/markdown-cv/media/ding-126626.mp3');
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					}); 
 				//change tab title
 				window.document.title= record.logs[0].source.name;
-	
-				//alert(subject);
 			}
 	}
 }
@@ -61,13 +59,10 @@ async function fetchData() {
 fetchData(); setInterval(fetchData, 180000);
 
 
-
-
-
 /**
-use https://caiorss.github.io/bookmarklet-maker/
-to convert it in bookmarklet-maker/
+Add this to Bokmarklet:
 
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://adegard.github.io/markdown-cv/media/bookmarlet_feed_notify_copper.js' })();
 
 Notify if new items in feed Copper
 1. open https://app.copper.com/companies/<comany number>/app#/feed
