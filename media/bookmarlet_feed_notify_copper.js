@@ -14,7 +14,7 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.1 ");
+	console.log("Version 1.2 ");
 	
 	if(record.logs[0].target ==null){
 		var subject = undefined;
