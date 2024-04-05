@@ -14,7 +14,7 @@ async function fetchData() {
 
    const record =await res.json();
 	//version to change at update
-	console.log("Version 1.5 ");
+	console.log("Version 1.6 ");
 
 	//hide right bar
 	for (const elements of document.querySelectorAll('.feedActions')) {
@@ -66,6 +66,7 @@ async function fetchData() {
 				//window.location.href = 'https://app.copper.com/companies/190749/app#/feed';
 				console.log("updated");
 				document.getElementsByClassName("feed-welcome_title")[0].innerHTML="new email! 📨, updated at "+d.toLocaleString();
+				 document.querySelector('.sideMenu-item').click();; //refresh
 				//add sound
  					var audio = new Audio('https://adegard.github.io/markdown-cv/media/ding-126626.mp3');
 					audio.addEventListener('canplay', () =>{
