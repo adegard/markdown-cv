@@ -1,5 +1,10 @@
 // If the script does not work, you may need to allow same site scripting https://stackoverflow.com/a/50902950
 // from : https://gist.github.com/thealphadollar/7c0ee76664cbd28aecc1bd235f0202fd
+/**
+Bookmarklet:
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://adegard.github.io/markdown-cv/media/AutoConnectLinkedIn.js' })();
+
+*/
 
 Linkedin = {
   config: {
