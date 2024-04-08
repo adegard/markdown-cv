@@ -8,6 +8,7 @@ checkbox.name = "mycheckoption";
 checkbox.value = "value";
 checkbox.id = "mycheckoption";
 document.getElementsByClassName("WebAppHeader_left")[0].prepend(checkbox);
+document.getElementById("mycheckoption").checked = true;
 
 //run script trigger
 async function fetchData() {
