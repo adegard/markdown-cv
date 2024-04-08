@@ -1,5 +1,6 @@
 //version to change at update
-console.log("Version 1.81 ");
+var versionnum = "Version 1.82 ";
+console.log(versionnum);
 
 //create checkbox 
 var checkbox = document.createElement('input');
@@ -7,7 +8,7 @@ checkbox.type = "checkbox";
 checkbox.name = "mycheckoption";
 checkbox.value = "value";
 checkbox.id = "mycheckoption";
-document.getElementsByClassName("WebAppHeader_left")[0].prepend(checkbox);
+document.getElementsByClassName("WebAppHeader_left")[0].prepend(versionnum,checkbox);
 document.getElementById("mycheckoption").checked = true;
 
 //run script trigger
