@@ -1,3 +1,15 @@
+//version to change at update
+console.log("Version 1.7 ");
+
+//create checkbox 
+var checkbox = document.createElement('input');
+checkbox.type = "checkbox";
+checkbox.name = "mycheckoption";
+checkbox.value = "value";
+checkbox.id = "mycheckoption";
+document.getElementsByClassName("WebAppHeader_left")[0].prepend(checkbox);
+
+//run script trigger
 async function fetchData() {
     const res=await fetch('https://app.copper.com/api/v1/companies/190749/feed/?activity_type_id=-1&version=2&view=slim&limit=11&offset=0', {
 					  "headers": {
@@ -13,8 +25,6 @@ async function fetchData() {
 		)
 
    const record =await res.json();
-	//version to change at update
-	console.log("Version 1.6 ");
 
 	//hide right bar
 	for (const elements of document.querySelectorAll('.feedActions')) {
@@ -43,6 +53,8 @@ async function fetchData() {
 	};
 	
 	document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
+
+	var checkedValue = document.getElementById("mycheckoption").checked;
 	
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
 			localStorage.setItem('lastfeedCopper', subject);
@@ -53,10 +65,12 @@ async function fetchData() {
 			console.log("same one");
 				if( d.getMinutes() > 55){
 					//add sound for a break
+					if(checkedValue){
 						var audio = new Audio('https://adegard.github.io/markdown-cv/media/wa-dealio-15-38113.mp3');
 						audio.addEventListener('canplay', () =>{
 							audio.play();
 						});
+					}	
 					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="🤸‍♀️🏃‍♂️time to move your body! ";
 				}else{
 					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
@@ -68,10 +82,12 @@ async function fetchData() {
 				document.getElementsByClassName("feed-welcome_title")[0].innerHTML="new email! 📨, updated at "+d.toLocaleString();
 				 document.querySelector('.sideMenu-item').click();; //refresh
 				//add sound
+				if(checkedValue){
  					var audio = new Audio('https://adegard.github.io/markdown-cv/media/ding-126626.mp3');
 					audio.addEventListener('canplay', () =>{
 						audio.play();
-					}); 
+					});
+				}
 				//change tab title
 				window.document.title= record.logs[0].source.name;
 			}
