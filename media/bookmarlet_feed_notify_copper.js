@@ -1,5 +1,5 @@
 //version to change at update
-console.log("Version 1.7 ");
+console.log("Version 1.8 ");
 
 //create checkbox 
 var checkbox = document.createElement('input');
