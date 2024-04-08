@@ -1,5 +1,5 @@
 //version to change at update
-console.log("Version 1.8 ");
+console.log("Version 1.81 ");
 
 //create checkbox 
 var checkbox = document.createElement('input');
@@ -106,11 +106,11 @@ function progressBarActivity(mytitle,currval,maxbar) {
 	  `
 	var div = document.createElement('div');
 	div.setAttribute('class', 'task-progress');
-	div.innerHTML = myHTML;
-	elemplace.prepend(div);
+	elemplace.innerHTML = myHTML;
+	//elemplace.prepend(div);
 }
 
-// progressBarActivity("test","36","100");
+//progressBarActivity("test","36","100");
 /**
 Add this to Bokmarklet:
 
