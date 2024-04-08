@@ -53,8 +53,9 @@ async function fetchData() {
 		(arrayEle == element ? ele + 1 : ele), 0);
 	};
 	
-	document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
-
+	//document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
+	progressBarActivity("ACTIVITY : ",count(arrname, "ADE"),"11");
+	
 	var checkedValue = document.getElementById("mycheckoption").checked;
 	
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
@@ -97,7 +98,19 @@ async function fetchData() {
 
 fetchData(); setInterval(fetchData, 180000);
 
+function progressBarActivity(mytitle,currval,maxbar) {
+	var elemplace = document.getElementsByClassName("feed-welcome_message")[0]; //.innerHTML
+	var myHTML = `
+	    <p>`+mytitle+`</p>
+	    <progress class="progress progress1" max="`+maxbar+`" value="`+currval+`"></progress><span>`+currval+`/`+maxbar+`</span>
+	  `
+	var div = document.createElement('div');
+	div.setAttribute('class', 'task-progress');
+	div.innerHTML = myHTML;
+	elemplace.prepend(div);
+}
 
+// progressBarActivity("test","36","100");
 /**
 Add this to Bokmarklet:
 
