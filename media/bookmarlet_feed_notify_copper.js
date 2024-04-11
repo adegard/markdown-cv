@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "Version 1.84 ";
+var versionnum = "Version 1.85 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -63,7 +63,7 @@ async function fetchData() {
 			if( d.getMinutes() > 35 &&  d.getMinutes() < 45){
 				//add a sound
 				if(checkedValue){
-					var audio = new Audio('https://adegard.github.io/markdown-cv/media/wa-dealio-15-38113.mp3');
+					var audio = new Audio('https://adegard.github.io/markdown-cv/media/deep-meditation-bell-hit-third-eye-chakra-6-186972.mp3');
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					});
