@@ -60,7 +60,7 @@ async function fetchData() {
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
 			localStorage.setItem('lastfeedCopper', subject);
 			console.log("not an email ");
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML= myquote +"/n no new email, checked at "+d.toLocaleString();
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML= myquote +" - no new email, checked at "+d.toLocaleString();
 		}else{
 		if(localStorage.getItem('lastfeedCopper')==subject){
 			console.log("same one");
