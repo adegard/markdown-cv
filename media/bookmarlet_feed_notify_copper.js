@@ -70,8 +70,8 @@ async function fetchData() {
 			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="📢 " + myquote + " - "+d.toLocaleString();			
 				}else{
 			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email, checked at "+d.toLocaleString();					
-			}		
-
+				}		
+			}
 		}else{
 		if(localStorage.getItem('lastfeedCopper')==subject){
 			console.log("same one");
