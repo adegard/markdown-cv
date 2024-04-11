@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "Version 1.83 ";
+var versionnum = "Version 1.84 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -60,7 +60,18 @@ async function fetchData() {
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
 			localStorage.setItem('lastfeedCopper', subject);
 			console.log("not an email ");
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML= myquote +" - no new email, checked at "+d.toLocaleString();
+			if( d.getMinutes() > 35 &&  d.getMinutes() < 45){
+				//add a sound
+				if(checkedValue){
+					var audio = new Audio('https://adegard.github.io/markdown-cv/media/wa-dealio-15-38113.mp3');
+					audio.addEventListener('canplay', () =>{
+						audio.play();
+					});
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="📢 " + myquote + " - "+d.toLocaleString();			
+				}else{
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email, checked at "+d.toLocaleString();					
+			}		
+
 		}else{
 		if(localStorage.getItem('lastfeedCopper')==subject){
 			console.log("same one");
