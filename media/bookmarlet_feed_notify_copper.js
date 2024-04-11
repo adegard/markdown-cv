@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "Version 1.82 ";
+var versionnum = "Version 1.83 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -32,12 +32,11 @@ async function fetchData() {
 	for (const elements of document.querySelectorAll('.feedActions')) {
 		  elements.style.display = 'none';
 	}
-	//add Image
-	/*
-	let img = new Image();
-    	img.src ='https://enogia.com/wp-content/uploads/2021/04/logo-enogia-300x108.png';
-    	document.querySelector('.feedDate').appendChild(img); 
-	*/
+	//randome quote
+	const quotefetch=await fetch('https://api.quotable.io/random');
+	const datajson =await quotefetch.json();
+	const myquote= datajson.content + "  -  "+ datajson.author;
+	
 	if(record.logs[0].target ==null){
 		var subject = undefined;
 		}else{
@@ -54,7 +53,6 @@ async function fetchData() {
 		(arrayEle == element ? ele + 1 : ele), 0);
 	};
 	
-	//document.getElementsByClassName("feed-welcome_message")[0].innerHTML="ACTIVITY : "+count(arrname, "ADE")+" /11";
 	progressBarActivity("ACTIVITY : ",count(arrname, "ADE"),"11");
 	
 	var checkedValue = document.getElementById("mycheckoption").checked;
@@ -62,7 +60,7 @@ async function fetchData() {
 	if(localStorage.getItem('lastfeedCopper')==undefined || subject==undefined){
 			localStorage.setItem('lastfeedCopper', subject);
 			console.log("not an email ");
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML= myquote +"/n no new email, checked at "+d.toLocaleString();
 		}else{
 		if(localStorage.getItem('lastfeedCopper')==subject){
 			console.log("same one");
