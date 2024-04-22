@@ -37,6 +37,8 @@ async function fetchData() {
 		  elements.style.display = 'none';
 	}
 
+	document.querySelector(".feedActionsContainer").style.width="10px"
+
 	//hide message question mark
 	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) {
 		  elements.style.display = 'none';
