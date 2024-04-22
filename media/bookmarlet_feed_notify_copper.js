@@ -13,15 +13,7 @@ document.getElementsByClassName("WebAppHeader_left")[0].prepend(versionnum,check
 document.getElementById("mycheckoption").insertAdjacentHTML("afterend","<label for='mycheckoption'>Sounds</label>");
 document.getElementById("mycheckoption").checked = true;
 
-	//hide right bar
-	for (const elements of document.querySelectorAll('.feedActions')) {
-		  elements.style.display = 'none';
-	}
 
-	//hide message question mark
-	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) {
-		  elements.style.display = 'none';
-	}
 
 //run script trigger
 async function fetchData() {
@@ -40,7 +32,15 @@ async function fetchData() {
 
    const record =await res.json();
 
+	//hide right bar
+	for (const elements of document.querySelectorAll('.feedActions')) {
+		  elements.style.display = 'none';
+	}
 
+	//hide message question mark
+	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) {
+		  elements.style.display = 'none';
+	}
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
 	const datajson =await quotefetch.json();
