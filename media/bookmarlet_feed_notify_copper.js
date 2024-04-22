@@ -13,6 +13,16 @@ document.getElementsByClassName("WebAppHeader_left")[0].prepend(versionnum,check
 document.getElementById("mycheckoption").insertAdjacentHTML("afterend","<label for='mycheckoption'>Sounds</label>");
 document.getElementById("mycheckoption").checked = true;
 
+	//hide right bar
+	for (const elements of document.querySelectorAll('.feedActions')) {
+		  elements.style.display = 'none';
+	}
+
+	//hide message question mark
+	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) {
+		  elements.style.display = 'none';
+	}
+
 //run script trigger
 async function fetchData() {
     const res=await fetch('https://app.copper.com/api/v1/companies/190749/feed/?activity_type_id=-1&version=2&view=slim&limit=11&offset=0', {
@@ -30,10 +40,7 @@ async function fetchData() {
 
    const record =await res.json();
 
-	//hide right bar
-	for (const elements of document.querySelectorAll('.feedActions')) {
-		  elements.style.display = 'none';
-	}
+
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
 	const datajson =await quotefetch.json();
