@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "Version 1.85 ";
+var versionnum = "Version 1.86 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -8,7 +8,9 @@ checkbox.type = "checkbox";
 checkbox.name = "mycheckoption";
 checkbox.value = "value";
 checkbox.id = "mycheckoption";
+
 document.getElementsByClassName("WebAppHeader_left")[0].prepend(versionnum,checkbox);
+document.getElementById("mycheckoption").insertAdjacentHTML("afterend","<label for='mycheckoption'>Sounds</label>");
 document.getElementById("mycheckoption").checked = true;
 
 //run script trigger
