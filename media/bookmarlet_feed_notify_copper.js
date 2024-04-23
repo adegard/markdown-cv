@@ -75,9 +75,11 @@ async function fetchData() {
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					});
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="📢 " + myquote + " - "+d.toLocaleString();			
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="📢 " + myquote + " - "+d.toLocaleString();		
+			window.document.title= "📢"; //change tab title
 				}else{
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email🙄, checked at "+d.toLocaleString();					
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email🙄, checked at "+d.toLocaleString();	
+			window.document.title= "🙄"; //change tab title
 				}		
 			}
 		}else{
@@ -92,8 +94,10 @@ async function fetchData() {
 						});
 					}	
 					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="🤸‍♀️🏃‍♂️time to move your body! ";
+					window.document.title= "🏃‍♂️"; //change tab title
 				}else{
-					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email, checked at "+d.toLocaleString();
+					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email 🙄, checked at "+d.toLocaleString();
+					window.document.title= "🙄"; //change tab title
 				}	
 			}else{
 				localStorage.setItem('lastfeedCopper', subject);
@@ -109,7 +113,7 @@ async function fetchData() {
 					});
 				}
 				//change tab title
-				window.document.title= record.logs[0].source.name;
+				window.document.title= "📨 "+ record.logs[0].source.name;
 			}
 	}
 }
