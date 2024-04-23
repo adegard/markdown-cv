@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.91 ";
+var versionnum = "V1.92 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -39,7 +39,18 @@ async function fetchData() {
 	for (const elements of document.querySelectorAll('.CommentReactions_listReactions')) {  elements.style.display = 'none';}
 	//hide attachement area
 	for (const elements of document.querySelectorAll('.ActivityItem_attachmentContainer')) { elements.style.display = 'none';}
+
+	//add Linkedin buttons
+	let xpos =  document.querySelectorAll(".QuickActions");
+	for (let i = 0; i < xpos.length; i++) {
+	  let para = document.createElement("button");
+	   para.textContent = "IN";
+	    xpos[i].appendChild(para);
+	    let xnme =  document.querySelectorAll(".ActivityItem_headerContent");
+	    let Htmlurl = "https://www.linkedin.com/search/results/people/?keywords="+xnme[i].innerText.replace(/to ([A-Z])(.*)/g, "")+"&origin=SWITCH_SEARCH_VERTICAL&sid=~_O";
+	    para.setAttribute("onclick", "location.href='"+Htmlurl+"'")
 	
+	}
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
 	const datajson =await quotefetch.json();
