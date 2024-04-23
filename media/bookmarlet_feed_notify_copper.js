@@ -73,7 +73,7 @@ async function fetchData() {
 			if( d.getMinutes() > 35 &&  d.getMinutes() < 45){
 				//add a sound
 				if(checkedValue){
-					var audio = new Audio('https://adegard.github.io/markdown-cv/media/deep-meditation-bell-hit-third-eye-chakra-6-186972.mp3');
+					var audio = new Audio('https://adegard.github.io/markdown-cv/media/quothello-therequot-158832.mp3');
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					});
