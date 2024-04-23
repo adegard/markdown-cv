@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.87 ";
+var versionnum = "V1.88 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -33,16 +33,15 @@ async function fetchData() {
    const record =await res.json();
 
 	//hide right bar
-	for (const elements of document.querySelectorAll('.feedActions')) {
-		  elements.style.display = 'none';
-	}
-
+	for (const elements of document.querySelectorAll('.feedActions')) { elements.style.display = 'none';}
 	document.querySelector(".feedActionsContainer").style.width="10px"
 
 	//hide message question mark
-	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) {
-		  elements.style.display = 'none';
-	}
+	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) { elements.style.display = 'none';}
+
+	//hide comments/emoji
+	for (const elements of document.querySelectorAll('.CommentReactions_listReactions')) {  elements.style.display = 'none';}
+	
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
 	const datajson =await quotefetch.json();
