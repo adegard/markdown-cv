@@ -40,7 +40,7 @@ async function fetchData() {
 	//hide attachement area
 	for (const elements of document.querySelectorAll('.ActivityItem_attachmentContainer')) { elements.style.display = 'none';}
 	
-	addButIn(); //add Linkedin buttons
+	//addButIn(); //add Linkedin buttons
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
 	const datajson =await quotefetch.json();
@@ -110,7 +110,7 @@ async function fetchData() {
 					});
 				}
 			messageCopper("new email! 📨, updated at "+d.toLocaleString());
-			addButIn(); //add Linkedin buttons
+			//addButIn(); //add Linkedin buttons
 			}
 	}
 }
