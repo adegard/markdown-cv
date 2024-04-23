@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.89 ";
+var versionnum = "V1.90 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -10,10 +10,8 @@ checkbox.value = "value";
 checkbox.id = "mycheckoption";
 
 document.getElementsByClassName("WebAppHeader_left")[0].prepend(versionnum,checkbox);
-document.getElementById("mycheckoption").insertAdjacentHTML("afterend","<label for='mycheckoption'>Sounds</label>");
+document.getElementById("mycheckoption").insertAdjacentHTML("afterend","<label for='mycheckoption'>🔉</label>");
 document.getElementById("mycheckoption").checked = true;
-
-
 
 //run script trigger
 async function fetchData() {
@@ -79,7 +77,7 @@ async function fetchData() {
 					});
 			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="📢 " + myquote + " - "+d.toLocaleString();			
 				}else{
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email, checked at "+d.toLocaleString();					
+			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email🙄, checked at "+d.toLocaleString();					
 				}		
 			}
 		}else{
