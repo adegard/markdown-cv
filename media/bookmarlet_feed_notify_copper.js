@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.92 ";
+var versionnum = "V1.93 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -39,18 +39,8 @@ async function fetchData() {
 	for (const elements of document.querySelectorAll('.CommentReactions_listReactions')) {  elements.style.display = 'none';}
 	//hide attachement area
 	for (const elements of document.querySelectorAll('.ActivityItem_attachmentContainer')) { elements.style.display = 'none';}
-
-	//add Linkedin buttons
-	let xpos =  document.querySelectorAll(".QuickActions");
-	for (let i = 0; i < xpos.length; i++) {
-	  let para = document.createElement("button");
-	   para.textContent = "IN";
-	    xpos[i].appendChild(para);
-	    let xnme =  document.querySelectorAll(".ActivityItem_headerContent");
-	    let Htmlurl = "https://www.linkedin.com/search/results/people/?keywords="+xnme[i].innerText.replace(/to ([A-Z])(.*)/g, "")+"&origin=SWITCH_SEARCH_VERTICAL&sid=~_O";
-	    para.setAttribute("onclick", "location.href='"+Htmlurl+"'")
 	
-	}
+	addButIn(); //add Linkedin buttons
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
 	const datajson =await quotefetch.json();
@@ -120,6 +110,7 @@ async function fetchData() {
 					});
 				}
 			messageCopper("new email! 📨, updated at "+d.toLocaleString());
+			addButIn(); //add Linkedin buttons
 			}
 	}
 }
@@ -142,6 +133,20 @@ function messageCopper(mymsg) {
 		document.getElementsByClassName("feed-welcome_title")[0].innerHTML= mymsg;	 //change lat bar text
 		window.document.title = mymsg; //change tab title
 }
+
+
+function addButIn(){
+	let xpos =  document.querySelectorAll(".QuickActions");
+	for (let i = 0; i < xpos.length; i++) {
+	  let para = document.createElement("button");
+	   para.textContent = "IN";
+	    xpos[i].appendChild(para);
+	    let xnme =  document.querySelectorAll(".ActivityItem_headerContent");
+	    let Htmlurl = "https://www.linkedin.com/search/results/people/?keywords="+xnme[i].innerText.replace(/to ([A-Z])(.*)/g, "")+"&origin=SWITCH_SEARCH_VERTICAL&sid=~_O";
+	    para.setAttribute("onclick", "location.href='"+Htmlurl+"'")
+	}
+}	
+	
 //progressBarActivity("test","36","100");
 /**
 Add this to Bokmarklet:
