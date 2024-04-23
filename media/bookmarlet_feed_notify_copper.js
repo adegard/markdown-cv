@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.90 ";
+var versionnum = "V1.91 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -75,11 +75,9 @@ async function fetchData() {
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					});
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML="📢 " + myquote + " - "+d.toLocaleString();		
-			window.document.title= "📢"; //change tab title
+			messageCopper("📢 " + myquote + " - "+d.toLocaleString());		
 				}else{
-			document.getElementsByClassName("feed-welcome_title")[0].innerHTML=" no new email🙄, checked at "+d.toLocaleString();	
-			window.document.title= "🙄"; //change tab title
+			messageCopper(" no new email🙄, checked at "+d.toLocaleString());
 				}		
 			}
 		}else{
@@ -93,17 +91,15 @@ async function fetchData() {
 							audio.play();
 						});
 					}	
-					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="🤸‍♀️🏃‍♂️time to move your body! ";
-					window.document.title= "🏃‍♂️"; //change tab title
+					messageCopper("🤸‍♀️🏃‍♂️time to move your body! ");
 				}else{
-					document.getElementsByClassName("feed-welcome_title")[0].innerHTML="no new email 🙄, checked at "+d.toLocaleString();
-					window.document.title= "🙄"; //change tab title
+					messageCopper("no new email 🙄, checked at "+d.toLocaleString());
 				}	
 			}else{
 				localStorage.setItem('lastfeedCopper', subject);
 				//window.location.href = 'https://app.copper.com/companies/190749/app#/feed';
 				console.log("updated");
-				document.getElementsByClassName("feed-welcome_title")[0].innerHTML="new email! 📨, updated at "+d.toLocaleString();
+				
 				 document.querySelector('.sideMenu-item').click();; //refresh
 				//add sound
 				if(checkedValue){
@@ -112,8 +108,7 @@ async function fetchData() {
 						audio.play();
 					});
 				}
-				//change tab title
-				window.document.title= "📨 "+ record.logs[0].source.name;
+			messageCopper("new email! 📨, updated at "+d.toLocaleString());
 			}
 	}
 }
@@ -132,6 +127,10 @@ function progressBarActivity(mytitle,currval,maxbar) {
 	//elemplace.prepend(div);
 }
 
+function messageCopper(mymsg) {
+		document.getElementsByClassName("feed-welcome_title")[0].innerHTML= mymsg;	 //change lat bar text
+		window.document.title = mymsg; //change tab title
+}
 //progressBarActivity("test","36","100");
 /**
 Add this to Bokmarklet:
