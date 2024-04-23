@@ -136,15 +136,12 @@ function messageCopper(mymsg) {
 
 
 function addButIn(){
-	let xpos =  document.querySelectorAll(".QuickActions");
-	for (let i = 0; i < xpos.length; i++) {
-	  let para = document.createElement("button");
-	   para.textContent = "IN";
-	    xpos[i].appendChild(para);
-	    let xnme =  document.querySelectorAll(".ActivityItem_headerContent");
-	    let Htmlurl = "https://www.linkedin.com/search/results/people/?keywords="+xnme[i].innerText.replace(/to ([A-Z])(.*)/g, "")+"&origin=SWITCH_SEARCH_VERTICAL&sid=~_O";
-	    para.setAttribute("onclick", "location.href='"+Htmlurl+"'")
-	}
+		let xpos =  document.querySelectorAll(".QuickActions");
+		for (let i = 0; i < xpos.length; i++) {
+		    let xnme =  document.querySelectorAll(".ActivityItem_headerContent");
+		    let Htmlurl = "https://www.linkedin.com/search/results/people/?keywords="+xnme[i].innerText.replace(/to ([A-Z])(.*)/g, "")+"&origin=SWITCH_SEARCH_VERTICAL&sid=~_O";
+		   xpos[i].innerHTML =  xpos[i].innerHTML + "<a href='" + Htmlurl + "' target='_blank'> <button class='box'>IN</button></a>";
+		}
 }	
 	
 //progressBarActivity("test","36","100");
