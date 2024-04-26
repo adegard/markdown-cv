@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.93 ";
+var versionnum = "V1.94 ";
 console.log(versionnum);
 
 //create checkbox 
