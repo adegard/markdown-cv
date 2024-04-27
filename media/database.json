@@ -1,7 +1,14 @@
 {
-  "test": 2,
-  "ds": "ee",
-  "fdddfd": {
-    "dsads": "dds"
-  }
+  "themes": [
+    {
+      "name": "1",
+      "audio1": "Mozart",
+      "color": "rouge"
+    },
+    {
+      "name": "2",
+      "audio1": "back",
+      "color": "bleu"
+    }
+  ]
 }
