@@ -31,8 +31,8 @@ async function fetchData() {
    const record =await res.json();
 
 	var selectors = [ '.feedActions', '.intercom-lightweight-app', '.CommentReactions_listReactions', '.ActivityItem_attachmentContainer'];
-
 	removeElements(selectors);
+	document.querySelector(".feedActionsContainer").style.width="10px"
 
 	//addButIn(); //add Linkedin buttons
 	//randome quote
