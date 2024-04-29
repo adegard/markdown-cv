@@ -140,7 +140,7 @@ function addButIn(){
 
 function removeElements(selectors){
     for (let i=0; i < selectors.length; i++) {
-	    console.log("removing i: "+i+" - "+selectors[i]);
+	    //console.log("removing i: "+i+" - "+selectors[i]);
         let nodesList = document.querySelectorAll(selectors[i]);
         for (let j = 0; j < nodesList.length; j++) {
             let el = nodesList[j];
