@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.94 ";
+var versionnum = "V1.95 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -30,16 +30,10 @@ async function fetchData() {
 
    const record =await res.json();
 
-	//hide right bar
-	for (const elements of document.querySelectorAll('.feedActions')) { elements.style.display = 'none';}
-	document.querySelector(".feedActionsContainer").style.width="10px"
-	//hide message question mark
-	for (const elements of document.querySelectorAll('.intercom-lightweight-app')) { elements.style.display = 'none';}
-	//hide comments/emoji
-	for (const elements of document.querySelectorAll('.CommentReactions_listReactions')) {  elements.style.display = 'none';}
-	//hide attachement area
-	for (const elements of document.querySelectorAll('.ActivityItem_attachmentContainer')) { elements.style.display = 'none';}
-	
+	var selectors = [ '.feedActions', '.intercom-lightweight-app', '.CommentReactions_listReactions', '.ActivityItem_attachmentContainer'];
+
+	removeElements(selectors);
+
 	//addButIn(); //add Linkedin buttons
 	//randome quote
 	const quotefetch=await fetch('https://api.quotable.io/random');
@@ -143,6 +137,17 @@ function addButIn(){
 		   xpos[i].innerHTML =  xpos[i].innerHTML + "<a href='" + Htmlurl + "' target='_blank'> <button class='box'>IN</button></a>";
 		}
 }	
+
+function removeElements(selectors){
+    for (let i=0; i < selectors.length; i++) {
+	    console.log("removing i: "+i+" - "+selectors[i]);
+        let nodesList = document.querySelectorAll(selectors[i]);
+        for (let j = 0; j < nodesList.length; j++) {
+            let el = nodesList[j];
+            if (el && el.parentNode) el.parentNode.removeChild(el);
+        }
+    }
+}
 	
 //progressBarActivity("test","36","100");
 /**
