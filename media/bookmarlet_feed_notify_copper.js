@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.95 ";
+var versionnum = "V1.96 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -12,6 +12,10 @@ checkbox.id = "mycheckoption";
 document.getElementsByClassName("WebAppHeader_left")[0].prepend(versionnum,checkbox);
 document.getElementById("mycheckoption").insertAdjacentHTML("afterend","<label for='mycheckoption'>🔉</label>");
 document.getElementById("mycheckoption").checked = true;
+
+//decorate
+AddImage("https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png", '.MenuDropdown');
+AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_leaf_dirt_earth_icon_141982.png", '.sideMenu-sectionSeparator');
 
 //run script trigger
 async function fetchData() {
@@ -148,7 +152,20 @@ function removeElements(selectors){
         }
     }
 }
-	
+
+function AddImage(url, selector){
+    if ( document.body.innerHTML.indexOf(imageurl) > -1) {
+      console.log('Image exists. ');
+      } else {
+        console.log('Image does not exists.')
+        const image = document.createElement('img')
+        image.src = imageurl;
+        image.style.height = '50px';
+        document.querySelector(selector).prepend(image)
+    }
+}
+
+
 //progressBarActivity("test","36","100");
 /**
 Add this to Bokmarklet:
