@@ -153,7 +153,7 @@ function removeElements(selectors){
     }
 }
 
-function AddImage(url, selector){
+function AddImage(imageurl, selector){
     if ( document.body.innerHTML.indexOf(imageurl) > -1) {
       console.log('Image exists. ');
       } else {
