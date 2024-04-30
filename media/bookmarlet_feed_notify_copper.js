@@ -156,9 +156,9 @@ function removeElements(selectors){
 
 function AddImage(imageurl, selector){
     if ( document.body.innerHTML.indexOf(imageurl) > -1) {
-      console.log('Image exists. ');
+      //console.log('Image exists. ');
       } else {
-        console.log('Image does not exists.')
+        //console.log('Image does not exists.')
         const image = document.createElement('img')
         image.src = imageurl;
         image.style.height = '50px';
