@@ -16,6 +16,7 @@ document.getElementById("mycheckoption").checked = true;
 //decorate
 AddImage("https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png", '.MenuDropdown');
 AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_leaf_dirt_earth_icon_141982.png", '.sideMenu-sectionSeparator');
+AddImage("https://cdn.icon-icons.com/icons2/2079/PNG/512/garden_bonsai_gardening_tree_growth_japanese_leaf_icon_127298.png", '.WebAppHeader_center');
 
 //run script trigger
 async function fetchData() {
