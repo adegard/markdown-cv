@@ -18,6 +18,7 @@ AddImage("https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringpl
 AddImage("https://cdn.icon-icons.com/icons2/2079/PNG/512/garden_bonsai_gardening_tree_growth_japanese_leaf_icon_127298.png", '.WebAppHeader_center');
 AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_leaf_dirt_earth_icon_141982.png", '.WebAppHeader_right');
 document.querySelector(".LeftNav").style.backgroundColor="#6f8e7f";
+document.querySelector(".LeftNav_content").style.backgroundColor="#6f8e7f";
 
 //run script trigger
 async function fetchData() {
