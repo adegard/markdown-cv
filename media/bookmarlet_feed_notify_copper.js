@@ -79,6 +79,7 @@ async function fetchData() {
 			const myquote= datajson.content + "  -  "+ datajson.author;		
 			messageCopper("📢 " + myquote + " - "+d.toLocaleString());		
 				}else{
+			console.log("no new email ");		
 			messageCopper(" no new email🙄, checked at "+d.toLocaleString());
 				}		
 			}
@@ -95,6 +96,7 @@ async function fetchData() {
 					}	
 					messageCopper("🤸‍♀️🏃‍♂️time to move your body! ");
 				}else{
+				console.log("no new email ");		
 					messageCopper("no new email 🙄, checked at "+d.toLocaleString());
 				}	
 			}else{
