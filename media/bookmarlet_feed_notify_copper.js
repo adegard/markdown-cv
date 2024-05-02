@@ -42,10 +42,6 @@ async function fetchData() {
 	document.querySelector(".feedActionsContainer").style.width="10px"
 
 	//addButIn(); //add Linkedin buttons
-	//randome quote
-	const quotefetch=await fetch('https://api.quotable.io/random');
-	const datajson =await quotefetch.json();
-	const myquote= datajson.content + "  -  "+ datajson.author;
 	
 	if(record.logs[0].target ==null){
 		var subject = undefined;
@@ -77,6 +73,10 @@ async function fetchData() {
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					});
+				//randome quote
+			const quotefetch=await fetch('https://api.quotable.io/random');
+			const datajson =await quotefetch.json();
+			const myquote= datajson.content + "  -  "+ datajson.author;		
 			messageCopper("📢 " + myquote + " - "+d.toLocaleString());		
 				}else{
 			messageCopper(" no new email🙄, checked at "+d.toLocaleString());
