@@ -53,11 +53,7 @@ async function fetchData() {
 	//check answers by ADE on ast feed items:
 	let arrname=[];
 	for (let i = 0; i < record.logs.length; i++) { arrname[i] = record.logs[i].actor.display_name;} 
-
-	function count(arrname, element) {
-		return arrname.reduce((ele, arrayEle) =>
-		(arrayEle == element ? ele + 1 : ele), 0);
-	};
+	console.log("arrname: "+arrname);
 	
 	progressBarty("ACTIVITY : ",count(arrname, "ADE"),"11");
 	
@@ -119,6 +115,11 @@ async function fetchData() {
 }
 
 fetchData(); setInterval(fetchData, 180000);
+
+function count(arrname, element) {
+	return arrname.reduce((ele, arrayEle) =>
+	(arrayEle == element ? ele + 1 : ele), 0);
+};
 
 function progressBarActivity(mytitle,currval,maxbar) {
 	var elemplace = document.getElementsByClassName("feed-welcome_message")[0]; //.innerHTML
