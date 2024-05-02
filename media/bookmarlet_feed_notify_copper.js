@@ -57,7 +57,7 @@ async function fetchData() {
 	for (let i = 0; i < record.logs.length; i++) { arrname[i] = record.logs[i].actor.display_name;} 
 	//console.log("arrname: "+arrname);
 	
-	progressBarty("ACTIVITY : ",count(arrname, "ADE"),"11");
+	progressBarActivity("ACTIVITY : ",count(arrname, "ADE"),"11");
 	
 	var checkedValue = document.getElementById("mycheckoption").checked;
 	
