@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.97 ";
+var versionnum = "V1.98 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -19,6 +19,8 @@ AddImage("https://cdn.icon-icons.com/icons2/2079/PNG/512/garden_bonsai_gardening
 AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_leaf_dirt_earth_icon_141982.png", '.WebAppHeader_right');
 document.querySelector(".LeftNav").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_content").style.backgroundColor="#6f8e7f";
+
+fetchData(); setInterval(fetchData, 180000);
 
 //run script trigger
 async function fetchData() {
@@ -53,7 +55,7 @@ async function fetchData() {
 	//check answers by ADE on ast feed items:
 	let arrname=[];
 	for (let i = 0; i < record.logs.length; i++) { arrname[i] = record.logs[i].actor.display_name;} 
-	console.log("arrname: "+arrname);
+	//console.log("arrname: "+arrname);
 	
 	progressBarty("ACTIVITY : ",count(arrname, "ADE"),"11");
 	
@@ -114,7 +116,7 @@ async function fetchData() {
 	}
 }
 
-fetchData(); setInterval(fetchData, 180000);
+
 
 function count(arrname, element) {
 	return arrname.reduce((ele, arrayEle) =>
