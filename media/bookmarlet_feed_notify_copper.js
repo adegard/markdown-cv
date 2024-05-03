@@ -19,9 +19,9 @@ AddImage("https://cdn.icon-icons.com/icons2/2079/PNG/512/garden_bonsai_gardening
 AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_leaf_dirt_earth_icon_141982.png", '.WebAppHeader_right');
 document.querySelector(".LeftNav").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_content").style.backgroundColor="#6f8e7f";
-document.querySelector(".LeftNav_footerIconImg").remove(); //remove logo
-document.querySelector(".LeftNav_inviteUsersSection ").remove();
-document.querySelector(".NotificationsDrawer_toggle").remove();
+
+var selectors = [ '.LeftNav_footerIconImg', '.LeftNav_inviteUsersSection', '.NotificationsDrawer_toggle'];
+removeElements(selectors);
 
 fetchData(); setInterval(fetchData, 180000);
 
