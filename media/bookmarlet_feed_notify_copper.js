@@ -21,6 +21,7 @@ document.querySelector(".LeftNav").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_content").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_footerIconImg").remove(); //remove logo
 document.querySelector(".LeftNav_inviteUsersSection ").remove();
+document.querySelector(".NotificationsDrawer_toggle").remove();
 
 fetchData(); setInterval(fetchData, 180000);
 
