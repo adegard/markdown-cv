@@ -20,6 +20,7 @@ AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_lea
 document.querySelector(".LeftNav").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_content").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_footerIconImg").remove(); //remove logo
+document.querySelector(".LeftNav_inviteUsersSection ").remove();
 
 fetchData(); setInterval(fetchData, 180000);
 
