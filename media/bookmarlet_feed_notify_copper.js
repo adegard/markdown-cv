@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V1.99 ";
+var versionnum = "V2.00 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -96,6 +96,7 @@ async function fetchData() {
 						});
 					}	
 					messageCopper("🤸‍♀️🏃‍♂️time to move your body! ");
+					AddImage(randomExoPNG(), ".WebAppHeader_center");
 				}else{
 				console.log("no new email ");		
 					messageCopper("no new email 🙄, checked at "+d.toLocaleString());
@@ -175,6 +176,23 @@ function AddImage(imageurl, selector){
         document.querySelector(selector).prepend(image)
     }
 }
+
+
+// Exercise pngs
+function randomExoPNG() { 
+    var listexo = [
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_sport_fitness_icon_133373.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_sport_walk_icon_133362.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_pushups_sport_icon_133368.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_stretching_sport_icon_133371.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_stretching_icon_133365.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_stretching_sport_icon_133369.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_sport_stretching_abs_icon_133363.png",
+  "https://cdn.icon-icons.com/icons2/2177/PNG/512/exercise_stretching_sport_icon_133364.png"
+  ]
+  return listexo[Math.floor(Math.random() * (listexo.length + 1))];
+}
+
 
 
 //progressBarActivity("test","36","100");
