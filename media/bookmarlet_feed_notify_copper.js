@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V2.00 ";
+var versionnum = "V2.01 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -109,7 +109,7 @@ async function fetchData() {
 				 document.querySelector('.sideMenu-item').click();; //refresh
 				//add sound
 				if(checkedValue){
- 					var audio = new Audio('https://adegard.github.io/markdown-cv/media/ding-126626.mp3');
+ 					var audio = new Audio('https://adegard.github.io/markdown-cv/media/tap-notification-180637.mp3');
 					audio.addEventListener('canplay', () =>{
 						audio.play();
 					});
