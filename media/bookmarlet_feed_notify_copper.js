@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V2.01 ";
+var versionnum = "V2.02 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -128,7 +128,7 @@ function count(arrname, element) {
 };
 
 function progressBarActivity(mytitle,currval,maxbar) {
-	var elemplace = document.getElementsByClassName("feed-welcome_message")[0]; //.innerHTML
+	var elemplace = document.getElementsByClassName("feed-welcome_title")[0]; //.innerHTML
 	var myHTML = `
 	    <p>`+mytitle+`</p>
 	    <progress class="progress progress1" max="`+maxbar+`" value="`+currval+`"></progress><span>`+currval+`/`+maxbar+`</span>
