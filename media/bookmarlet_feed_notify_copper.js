@@ -1,5 +1,5 @@
 //version to change at update
-var versionnum = "V2.03 ";
+var versionnum = "V2.04 ";
 console.log(versionnum);
 
 //create checkbox 
@@ -15,7 +15,7 @@ document.getElementById("mycheckoption").checked = true;
 
 //decorate
 AddImage("https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png", '.MenuDropdown');
-AddImage("https://cdn.icon-icons.com/icons2/480/PNG/256/Christmas-Tree-Icon_47136.png", '.WebAppHeader_center');
+AddImage("https://cdn.icon-icons.com/icons2/3240/PNG/512/season_snowflake_winter_christmas_cold_icon_197469.png", '.WebAppHeader_center');
 AddImage("https://cdn.icon-icons.com/icons2/2313/PNG/512/plant_nature_leaves_leaf_dirt_earth_icon_141982.png", '.WebAppHeader_right');
 document.querySelector(".LeftNav").style.backgroundColor="#6f8e7f";
 document.querySelector(".LeftNav_content").style.backgroundColor="#6f8e7f";
