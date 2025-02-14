@@ -61,7 +61,7 @@ Business Developer, South Europe
 
 ENOGIA enables its customers to produce decarbonised electricity and to recover waste or renewable heat.
 
-- I'm responsible of Sales Development in Southe Europe area, especially Italy.
+- I'm responsible of Sales Development in Southern Europe, especially Italy.
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
