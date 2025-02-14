@@ -167,7 +167,7 @@ I hereby consent to the processing of the personal data in this CV by anyone who
 
 ## Last updated 
 
-2023
+2024
 
 <!-- ### Footer @adegard-->
 
