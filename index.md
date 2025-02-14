@@ -7,7 +7,7 @@ title: Arnaud Degardin - Curriculum Vitae
 </myfigure>
 
 # Arnaud DEGARDIN
-Chemical Engineer
+Chemical Engineer, Business Developer
 
 ✉️ <a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
 | 📞 available on request
@@ -24,7 +24,7 @@ Business Developer
 
 ### Summary
 
-*I am a french Chemical Engineer, actually Sales Manager with a focus mainly on industrial solutions.*
+*I am a french Chemical Engineer, actually Business Developer with a focus mainly on industrial solutions.*
 
 ### Top skills
 
@@ -59,27 +59,11 @@ __ENOGIA SA__, Milan, Lombardia, Italia, <a href="https://www.enogia.com/">enogi
 
 Business Developer, South Europe
 
-ENOGIA is producing ORC systems, which can generate clean energy from almost any source of low-temperature (>70°C) heat (from Hot oil, steam, hot gas stack, hot water....etc), and have a wide range of applications:
-
-• HEAT RECOVERY 
- - Heat Recovery from Industrial Processes
- - Heat recovery from Engines Cooling (gas stack & Jacket Water)
- - Heat recovery from Boilers Gas Stacks
- - Heat recovery from Air Compressors Cooling
-
-• POWER GENERATION
- - Power generation from biogas combustion
- - Power generation from biomass/waste combustion
- - Power generation from geothermal heat
- - Power generation from solar heat
-
 ENOGIA enables its customers to produce decarbonised electricity and to recover waste or renewable heat.
 
 ENOGIA offers the largest range of small ORC machines on the market, with modules rated from 10kW to 180kW of electricity. ENOGIA’s unique architecture keeps operations, supervision and maintenance as intuitive as possible.
 
-ENOGIA is one of the only companies in the world that proposes ORC modules that use waste heat from 70°C, with "no-oil" lubrification concept and pre-assembled and pre-tested units, thus allowing plug-and-play installation, long life and reliability.
-
-ORC modules help transform heat into electricity and to recover it.
+I'm responsible of Sales Development in Southe Europe area, especially Italy.
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
