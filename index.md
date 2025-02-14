@@ -61,9 +61,7 @@ Business Developer, South Europe
 
 ENOGIA enables its customers to produce decarbonised electricity and to recover waste or renewable heat.
 
-ENOGIA offers the largest range of small ORC machines on the market, with modules rated from 10kW to 180kW of electricity. ENOGIA’s unique architecture keeps operations, supervision and maintenance as intuitive as possible.
-
-I'm responsible of Sales Development in Southe Europe area, especially Italy.
+- I'm responsible of Sales Development in Southe Europe area, especially Italy.
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
@@ -73,7 +71,6 @@ Technical Sales & Application Manager
 - DEC's promotes VOC abatement solutions: mainly solvent recovery system for VOC filtration on activated carbon adsorption, and reuse after desorption, allowing Circular Economy and CO2 footprint reduction. Those systems are mainly employed in chemical, pharmaceutical industries and also in flexible packaging converting processes.
 - I was representing DEC and its products to the Customers: from leads first contacts,  project feasibility study, preliminary layout, proposal definition, negociation and contract redaction.
 - To fulfill this responsibility, I regularly travelled throughout Europe, North Africa, and the Middle East.
-
 - For the leads expansion, I participate regularly to Fairs/Exhibitions and make public speaches during sectorial association's meetings.
 
 `2012-2018`
