@@ -24,7 +24,7 @@ Business Developer
 
 ### Summary
 
-*I am a french Chemical Engineer, actually Business Developer with a focus mainly on industrial solutions.*
+*I am a french Chemical Engineer, actually Business Developer with a focus mainly on industrial sustainable solutions.*
 
 ### Top skills
 
