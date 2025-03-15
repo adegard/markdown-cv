@@ -7,7 +7,7 @@ title: Arnaud Degardin - Curriculum Vitae
 </myfigure>
 
 # Arnaud DEGARDIN
-Chemical Engineer
+Chemical Process Engineer
 
 ✉️ <a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
 | 📞 available on request
@@ -19,7 +19,7 @@ Chemical Engineer
 
 ## Currently
 
-Business Developer, sales engineer
+Business Developer, Technical Sales Engineer
 
 
 ### Summary
