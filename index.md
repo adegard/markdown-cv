@@ -59,7 +59,7 @@ __ENOGIA SA__, Milan, Lombardia, Italia, <a href="https://www.enogia.com/">enogi
 
 Business Developer, South Europe
 
-ENOGIA enables its customers to produce decarbonised electricity and to recover waste or renewable heat.
+ENOGIA manufactures systems for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes.
 
 - I'm responsible of the Sales development (Prospection, customer requests, technical offers, contracts) and Sales Agents network development for the Southern Europe, especially Italy and part of Middle East.
   
