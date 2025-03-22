@@ -7,7 +7,7 @@ title: Arnaud Degardin - Curriculum Vitae
 </myfigure>
 
 # Arnaud DEGARDIN
-Chemical Process Engineer
+Chemical Engineer
 
 ✉️ <a emailto="degardinarnaud@gmail.com">degardinarnaud@gmail.com</a>
 | 📞 available on request
