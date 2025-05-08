@@ -24,7 +24,7 @@ Business Developer, Technical Sales Engineer
 
 ### Summary
 
-*I am a french Chemical Engineer living in Italy. I'm actually working as Business Developer and Sales Engineer to find new customers and develop industrial solutions for energy effciency and renewables.*
+*I am a french Chemical Engineer living in Italy. I'm actually working as Business Developer and Sales Engineer to develop South-Europe market for Enogia, developing industrial solutions for energy effciency and Electricity production.*
 
 ### Top skills
 
