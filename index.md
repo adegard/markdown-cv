@@ -61,10 +61,9 @@ Business Developer, South Europe
 
 ENOGIA manufactures systems for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes.
 
-- I'm responsible of the Sales development (Prospection, customer requests, technical offers, contracts) and Sales Agents network development for the Southern Europe, part of Middle East and North Africa.
-- Preliminary offers require the design of a complete solution for every customer:
-. sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
-. design of the integration parts (additional heat exchanger to recover the heat sources, cooling system for the condensation and interconnections like piping and pumping systems system, with Organic Rankine Cycle (ORC) modules. 
+- I'm responsible of the Sales development (Prospection, customer requests, technical offers, contracts) and Sales Agents network development for the Southern Europe, part of Middle East and North Africa. Preliminary offers require the design of a complete solution for every customer.
+- Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
+- Design (Process calculations) of the integration parts (additional heat exchanger to recover the heat sources, cooling system for the condensation and interconnections like piping and pumping systems system, with Organic Rankine Cycle (ORC) modules. 
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
