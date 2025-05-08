@@ -61,7 +61,7 @@ Business Developer, South Europe
 
 ENOGIA manufactures systems (Organic Rankine Cycle - ORC) for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes (furnaces, boilers, engines, gas stacks, geothermal...).
 
-- I'm responsible for the Sales development (using email/phone prospection, participation to events...) finding new customer and Sales Agents for the Southern Europe area and Middle East.
+- I'm responsible for the Sales development (using email/phone prospection, participation to events...) finding new customers and Sales Agents for the Southern Europe and Middle East areas.
 - I'm following all the sales process steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
 - Preliminary offers require the design of a complete solution for every customer, including:
 @ Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
