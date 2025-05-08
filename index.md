@@ -61,7 +61,7 @@ Business Developer, South Europe
 
 ENOGIA manufactures systems for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes.
 
-- I'm responsible for the Sales development (using email/phone prospection, participation to events...) and Sales Agents network development for the Southern Europe, part of Middle East and North Africa.
+- I'm responsible for the Sales development (using email/phone prospection, participation to events...) finding new customer and Sales Agents for the Southern Europe area and Middle East.
 - Sales process includes whole funnel steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
 - Preliminary offers require the design of a complete solution for every customer, including:
 @ Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
