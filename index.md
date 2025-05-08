@@ -59,13 +59,13 @@ __ENOGIA SA__, Milan, Lombardia, Italia, <a href="https://www.enogia.com/">enogi
 
 Business Developer, South Europe
 
-ENOGIA manufactures systems for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes.
+ENOGIA manufactures systems (Organic Rankine Cycle - ORC) for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes.
 
 - I'm responsible for the Sales development (using email/phone prospection, participation to events...) finding new customer and Sales Agents for the Southern Europe area and Middle East.
 - I'm following all the sales process steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
 - Preliminary offers require the design of a complete solution for every customer, including:
 @ Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
-@ Design (Process calculations) of the integration parts (additional heat exchanger to recover the heat sources, cooling system for the condensation and interconnections like piping and pumping systems system, with Organic Rankine Cycle (ORC) modules. 
+@ Design EPC solutions (drawings, process engineering...) and budgeting activities for the integration parts (additional heat exchangers, cooling systems and interconnecting (piping, pumping systems system). 
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
