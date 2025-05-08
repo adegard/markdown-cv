@@ -65,7 +65,7 @@ ENOGIA manufactures systems (Organic Rankine Cycle - ORC) for electricity genera
 - I'm following all the sales process steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
 - Preliminary offers require the design of a complete solution for every customer, including:
 @ Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
-@ Design EPC solutions (drawings, process engineering...) and budgeting activities for the integration parts (additional heat exchangers, cooling systems and interconnecting (piping, pumping systems system). 
+@ Design EPC solutions (drawings, process engineering and budgeting activities) for the integration parts (eg. additional heat exchangers, cooling systems and interconnecting like piping, pumping systems). 
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
