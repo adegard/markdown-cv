@@ -24,7 +24,7 @@ Business Developer, Technical Sales Engineer
 
 ### Summary
 
-*I am a french Chemical Engineer, actually Business Developer with a main focus on industrial solutions for sustainability and clean energy.*
+*I am a french Chemical Engineer living in Italy. I'm actually working as Business Developer and Sales Engineer to develop industrial solutions for energy effciency and renewables.*
 
 ### Top skills
 
