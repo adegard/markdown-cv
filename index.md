@@ -24,7 +24,7 @@ Business Developer, Technical Sales Engineer
 
 ### Summary
 
-*I am a french Chemical Engineer living in Italy. I'm actually working as Business Developer and Sales Engineer to develop industrial solutions for energy effciency and renewables.*
+*I am a french Chemical Engineer living in Italy. I'm actually working as Business Developer and Sales Engineer to find new customers and develop industrial solutions for energy effciency and renewables.*
 
 ### Top skills
 
@@ -61,9 +61,11 @@ Business Developer, South Europe
 
 ENOGIA manufactures systems for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes.
 
-- I'm responsible of the Sales development (Prospection, customer requests, technical offers, contracts) and Sales Agents network development for the Southern Europe, part of Middle East and North Africa. Preliminary offers require the design of a complete solution for every customer.
-- Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
-- Design (Process calculations) of the integration parts (additional heat exchanger to recover the heat sources, cooling system for the condensation and interconnections like piping and pumping systems system, with Organic Rankine Cycle (ORC) modules. 
+- I'm responsible for the Sales development (using email/phone prospection, participation to events...) and Sales Agents network development for the Southern Europe, part of Middle East and North Africa.
+- Sales process includes whole funnel steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
+- Preliminary offers require the design of a complete solution for every customer, including:
+@ Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
+@ Design (Process calculations) of the integration parts (additional heat exchanger to recover the heat sources, cooling system for the condensation and interconnections like piping and pumping systems system, with Organic Rankine Cycle (ORC) modules. 
   
 `2019-02/2024`
 __DEC S.p.A.__, Lainate, Lombardia, Italia, <a href="https://www.dec.group/">dec.group</a>
