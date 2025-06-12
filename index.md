@@ -13,7 +13,7 @@ Chemical Engineer
 | 📞 available on request
 | <a href="https://adegard.github.io/markdown-cv/">CV Webpage</a>
 | <a href="https://www.linkedin.com/in/arnauddegardin/">Linkedin</a>
-| <a href="https://github.com/adegard/">Github</a>  
+<!--| <a href="https://github.com/adegard/">Github</a>  -->
 
 🏠 <a href="https://maps.app.goo.gl/QGSkvbxSjuGPVETu6">Cesate (MI), Lombardy, Italy</a> 
 
