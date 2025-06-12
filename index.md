@@ -143,7 +143,7 @@ Process Engineer - internship
 `1997`
 🏅 Brevet d’aptitude aux fonctions d’animateur <a href="https://www.jeunes.gouv.fr/le-brevet-d-aptitude-aux-fonctions-d-animateur-bafa-253">BAFA</a>
 
-## Softwares (most important)
+## Softwares (basic knowledges)
 
 - Office: <a href="https://www.office.com/">Microsoft's Office</a>, <a href="https://workspace.google.com/">Google Workspace</a>
 - 2D/3D drawing: <a href="https://www.autodesk.com/products/autocad/overview">Autocad</a>, <a href="https://www.bricsys.com/">Bricscad</a>, <a href="https://www.blender.org/">Blender</a>, <a href="https://inkscape.org/">Inkscape</a> 
