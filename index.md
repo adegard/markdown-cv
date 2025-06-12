@@ -149,11 +149,9 @@ Process Engineer - internship
 - 2D/3D drawing: <a href="https://www.autodesk.com/products/autocad/overview">Autocad</a>, <a href="https://www.bricsys.com/">Bricscad</a>, <a href="https://www.blender.org/">Blender</a>, <a href="https://inkscape.org/">Inkscape</a> 
 - Stastics: <a href="https://www.minitab.com/">Minitab</a>
 
-## Programming languages (knowledges)
+## Programming languages (basic knowledges)
 
-
-- Intermediate: <a href="https://www.google.com/script/start/">Google Apps Script</a>, <a href="https://www.w3schools.com/html/">HTML</a>, <a href="https://www.w3schools.com/js/DEFAULT.asp">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/PHP">PHP</a>, <a href="https://www.python.org/">Python</a>, 
-- Basic: <a href="https://www.w3schools.com/sql/">SQL</a>, <a href="https://www.w3schools.com/Css/">CSS</a>, <a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a>, <a href="https://react.dev/">React.js</a>
+- <a href="https://www.google.com/script/start/">Google Apps Script</a>, <a href="https://www.w3schools.com/html/">HTML</a>, <a href="https://www.w3schools.com/js/DEFAULT.asp">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/PHP">PHP</a>, <a href="https://www.python.org/">Python</a>, 
 
 ## Recommandation
 
