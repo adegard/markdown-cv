@@ -19,12 +19,12 @@ Chemical Engineer
 
 ## Currently
 
-Business Developer, Technical Sales Engineer
+Area Sales Manager
 
 
 ### Summary
 
-*I am a french Chemical Engineer living in Italy. I'm actually working as Business Developer and Sales Engineer to develop South-Europe market for Enogia, developing industrial solutions for energy effciency and Electricity production.*
+*I am a french Chemical Engineer living in Italy. I'm actually working as Area Sales Manager for industrial Cooling/Heating solutions.*
 
 ### Top skills
 
@@ -54,16 +54,27 @@ __Université François Rabelais de Tours, Bachelor's degree, Biology.__
 
 ## Occupation
 
-`02/2024-Present`
+`07/2025-Present`
+__FRIGOSYSTEM SRL__, Caronno Pertusella, Lombardia, Italia, <a href="https://www.frigosystem.it/">frigosystem.it</a> 
+
+Area Sales Manager
+
+Frigosystem-Corema is focused on the design, manufacture and sale of industrial chillers, coolers and temperature controllers, with a long experience in high accuracy systems. 
+
+The wide range of the products permits to satisfy all specific demands of both small and big industry: Frigosystem can structure their offer with tailor-made plants and proposals, always oriented to efficiency and energy saving.
+
+- I'm responsible for the Sales development following all the sales process steps: contacting customers, preparing technical offers up to negociation phase.
+
+`02/2024-06/2025`
 __ENOGIA SA__, Milan, Lombardia, Italia, <a href="https://www.enogia.com/">enogia.com</a> (Company HQ based in France, Marseille)
 
 Business Developer, South Europe
 
 ENOGIA manufactures systems (Organic Rankine Cycle - ORC) for electricity generation from renewable sources. It allows customers to produce green electricity and to recover waste heat from different processes (furnaces, boilers, engines, gas stacks, geothermal...).
 
-- I'm responsible for the Sales development (using email/phone prospection, participation to events...) finding new customers and Sales Agents for the Southern Europe and Middle East areas.
-- I'm following all the sales process steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
-- Preliminary offers require the design of a complete solution for every customer, including:
+- I was responsible for the Sales development (using email/phone prospection, participation to events...) finding new customers and Sales Agents for the Southern Europe and Middle East areas.
+- I was following all the sales process steps: answering customer requests, presentations (onsite, remote), technical offers, negociation and contract redaction.
+- Preliminary offers required the design of a complete solution for every customer, including:
 @ Sizing of the ORC device with the optimization of the process conditions in order to maximize the efficiency (Electricity production)
 @ Design EPC solutions (drawings, process engineering and budgeting activities) for the integration parts (eg. additional heat exchangers, cooling systems and interconnecting like piping, pumping systems). 
   
