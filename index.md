@@ -61,8 +61,6 @@ Area Sales Manager
 
 Frigosystem-Corema is focused on the design, manufacture and sale of industrial chillers, coolers and temperature controllers, with a long experience in high accuracy systems. 
 
-The wide range of the products permits to satisfy all specific demands of both small and big industry: Frigosystem can structure their offer with tailor-made plants and proposals, always oriented to efficiency and energy saving.
-
 - I'm responsible for the Sales development following all the sales process steps: contacting customers, preparing technical offers up to negociation phase.
 
 `02/2024-06/2025`
