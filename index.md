@@ -161,6 +161,7 @@ Process Engineer - internship
 ## Programming languages (basic knowledges)
 
 - <a href="https://www.google.com/script/start/">Google Apps Script</a>, <a href="https://www.w3schools.com/html/">HTML</a>, <a href="https://www.w3schools.com/js/DEFAULT.asp">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/PHP">PHP</a>, <a href="https://www.python.org/">Python</a>, 
+- <a href="https://adegard.github.io/blog/">Github Blog</a>
 
 ## Recommandation
 
